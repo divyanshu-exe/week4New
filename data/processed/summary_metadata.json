@@ -1,0 +1,173 @@
+{
+  "corpus_size": 2000,
+  "epochs": [
+    "Epoch 1 (2018-2019)",
+    "Epoch 2 (2020-2021)",
+    "Epoch 3 (2022-2023)",
+    "Epoch 4 (2024-2025)"
+  ],
+  "vocab_sizes": {
+    "Epoch 1 (2018-2019)": 5348,
+    "Epoch 2 (2020-2021)": 5773,
+    "Epoch 3 (2022-2023)": 6177,
+    "Epoch 4 (2024-2025)": 6260
+  },
+  "token_counts": {
+    "Epoch 1 (2018-2019)": 37139,
+    "Epoch 2 (2020-2021)": 40518,
+    "Epoch 3 (2022-2023)": 43421,
+    "Epoch 4 (2024-2025)": 45081
+  },
+  "clustering_metrics": {
+    "silhouette_score": 0.0395,
+    "davies_bouldin_score": 3.9097,
+    "explained_variance_ratio": 0.1581
+  },
+  "chi2_test": {
+    "chi2_statistic": 822.88,
+    "p_value": 2.044394346208518e-168,
+    "degrees_of_freedom": 12,
+    "is_significant": true
+  },
+  "topic_labels": {
+    "Topic_1": "T1: Entity / Knowledge / Of",
+    "Topic_2": "T2: Llm / Llms / Language",
+    "Topic_3": "T3: Translation / Machine / English",
+    "Topic_4": "T4: Social / Text / Medium",
+    "Topic_5": "T5: Speech / Recognition / Asr",
+    "Topic_6": "T6: Question / Answer / Vqa",
+    "Topic_7": "T7: Word / Semantic / Embeddings",
+    "Topic_8": "T8: Sequence / Attention / Network"
+  },
+  "cluster_names": {
+    "Cluster_0": "C1: Word-Representation-Language",
+    "Cluster_1": "C2: Data-Text-Language",
+    "Cluster_2": "C3: Question-Answer-Knowledge",
+    "Cluster_3": "C4: Speech-Recognition-Asr",
+    "Cluster_4": "C5: Llm-Llms-Language"
+  },
+  "top_emergent_terms": [
+    {
+      "term": "llm",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 119.78,
+      "emergence_index": 7.91
+    },
+    {
+      "term": "llms",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 51.02,
+      "emergence_index": 6.687
+    },
+    {
+      "term": "gpt",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 28.62,
+      "emergence_index": 5.864
+    },
+    {
+      "term": "hallucination",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 13.31,
+      "emergence_index": 4.788
+    },
+    {
+      "term": "chatgpt",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 13.09,
+      "emergence_index": 4.764
+    },
+    {
+      "term": "prompt",
+      "norm_freq_e1": 0.81,
+      "norm_freq_e4": 31.28,
+      "emergence_index": 4.603
+    },
+    {
+      "term": "llama",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 9.76,
+      "emergence_index": 4.359
+    },
+    {
+      "term": "pre-training",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 8.87,
+      "emergence_index": 4.228
+    },
+    {
+      "term": "capability",
+      "norm_freq_e1": 1.35,
+      "norm_freq_e4": 33.05,
+      "emergence_index": 4.184
+    },
+    {
+      "term": "bert",
+      "norm_freq_e1": 0.0,
+      "norm_freq_e4": 6.88,
+      "emergence_index": 3.883
+    }
+  ],
+  "top_decaying_terms": [
+    {
+      "term": "item",
+      "norm_freq_e1": 5.65,
+      "norm_freq_e4": 0.22,
+      "emergence_index": -3.092
+    },
+    {
+      "term": "ctc",
+      "norm_freq_e1": 3.77,
+      "norm_freq_e4": 0.0,
+      "emergence_index": -3.094
+    },
+    {
+      "term": "extractive",
+      "norm_freq_e1": 3.77,
+      "norm_freq_e4": 0.0,
+      "emergence_index": -3.094
+    },
+    {
+      "term": "cnn",
+      "norm_freq_e1": 4.04,
+      "norm_freq_e4": 0.0,
+      "emergence_index": -3.182
+    },
+    {
+      "term": "sens",
+      "norm_freq_e1": 4.31,
+      "norm_freq_e4": 0.0,
+      "emergence_index": -3.265
+    },
+    {
+      "term": "rnn",
+      "norm_freq_e1": 6.73,
+      "norm_freq_e4": 0.22,
+      "emergence_index": -3.325
+    },
+    {
+      "term": "movie",
+      "norm_freq_e1": 6.73,
+      "norm_freq_e4": 0.22,
+      "emergence_index": -3.325
+    },
+    {
+      "term": "recurrent",
+      "norm_freq_e1": 20.46,
+      "norm_freq_e4": 1.11,
+      "emergence_index": -3.704
+    },
+    {
+      "term": "vector",
+      "norm_freq_e1": 29.89,
+      "norm_freq_e4": 1.77,
+      "emergence_index": -3.74
+    },
+    {
+      "term": "convolutional",
+      "norm_freq_e1": 11.04,
+      "norm_freq_e4": 0.22,
+      "emergence_index": -3.999
+    }
+  ]
+}

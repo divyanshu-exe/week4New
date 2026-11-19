@@ -1,0 +1,7 @@
+,avg_sentence_len,avg_sentence_len,ttr,ttr,guiraud_r,guiraud_r,maas_index,maas_index,flesch_reading_ease,flesch_reading_ease,fk_grade_level,fk_grade_level,coleman_liau,coleman_liau,hedges_per_1k,hedges_per_1k,boosters_per_1k,boosters_per_1k,booster_hedge_ratio,booster_hedge_ratio,sentiment_compound,sentiment_compound
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+epoch,,,,,,,,,,,,,,,,,,,,,,
+Epoch 1 (2018-2019),21.519,5.122,0.772,0.083,6.476,1.038,0.014,0.005,21.827,11.808,15.561,2.472,16.287,2.148,2.894,5.339,4.314,6.393,5.241,7.425,0.533,0.513
+Epoch 2 (2020-2021),21.393,5.164,0.749,0.08,6.61,0.979,0.015,0.005,21.04,12.471,15.64,2.555,16.504,2.305,3.147,5.294,3.881,5.282,4.771,7.222,0.543,0.536
+Epoch 3 (2022-2023),21.353,5.188,0.749,0.079,6.837,1.023,0.015,0.005,19.566,12.103,15.835,2.519,16.855,2.258,3.399,5.237,3.723,5.374,4.678,7.89,0.557,0.566
+Epoch 4 (2024-2025),20.943,4.316,0.766,0.07,7.171,1.016,0.014,0.004,15.622,12.343,16.283,2.272,17.75,2.368,4.155,5.889,4.499,5.925,4.861,7.734,0.629,0.51

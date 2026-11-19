@@ -1,0 +1,1794 @@
+term,raw_count_e1,raw_count_e4,norm_freq_e1,norm_freq_e4,emergence_index,growth_ratio,category
+llm,0,540,0.0,119.78,7.91,1198.84,Emergent (High Growth)
+llms,0,230,0.0,51.02,6.687,511.19,Emergent (High Growth)
+gpt,0,129,0.0,28.62,5.864,287.15,Emergent (High Growth)
+hallucination,0,60,0.0,13.31,4.788,134.09,Emergent (High Growth)
+chatgpt,0,59,0.0,13.09,4.764,131.88,Emergent (High Growth)
+prompt,3,141,0.81,31.28,4.603,34.56,Emergent (High Growth)
+llama,0,44,0.0,9.76,4.359,98.6,Emergent (High Growth)
+pre-training,0,40,0.0,8.87,4.228,89.73,Emergent (High Growth)
+capability,5,149,1.35,33.05,4.184,22.92,Emergent (High Growth)
+bert,0,31,0.0,6.88,3.883,69.77,Emergent (High Growth)
+mllms,0,27,0.0,5.99,3.698,60.89,Emergent (High Growth)
+fine-tuning,4,90,1.08,19.96,3.698,17.05,Emergent (High Growth)
+in-context,0,24,0.0,5.32,3.542,54.24,Emergent (High Growth)
+cot,0,22,0.0,4.88,3.428,49.8,Emergent (High Growth)
+llm-based,0,22,0.0,4.88,3.428,49.8,Emergent (High Growth)
+pretrained,1,35,0.27,7.76,3.425,21.3,Emergent (High Growth)
+fine-tuned,1,34,0.27,7.54,3.386,20.7,Emergent (High Growth)
+creative,0,21,0.0,4.66,3.367,47.58,Emergent (High Growth)
+transformer,2,46,0.54,10.2,3.366,16.14,Emergent (High Growth)
+healthcare,0,20,0.0,4.44,3.303,45.36,Emergent (High Growth)
+proficiency,0,19,0.0,4.21,3.237,43.15,Emergent (High Growth)
+pretraining,0,18,0.0,3.99,3.168,40.93,Emergent (High Growth)
+plms,0,18,0.0,3.99,3.168,40.93,Emergent (High Growth)
+multi-agent,0,18,0.0,3.99,3.168,40.93,Emergent (High Growth)
+advancement,2,38,0.54,8.43,3.104,13.36,Emergent (High Growth)
+plant,0,17,0.0,3.77,3.095,38.71,Emergent (High Growth)
+prompting,0,17,0.0,3.77,3.095,38.71,Emergent (High Growth)
+chain-of-thought,0,17,0.0,3.77,3.095,38.71,Emergent (High Growth)
+transformer-based,0,17,0.0,3.77,3.095,38.71,Emergent (High Growth)
+remarkable,2,36,0.54,7.99,3.03,12.66,Emergent (High Growth)
+utilization,0,16,0.0,3.55,3.018,36.49,Emergent (High Growth)
+instruction,6,75,1.62,16.64,3.018,9.76,Emergent (High Growth)
+financial,1,25,0.27,5.55,2.974,15.29,Emergent (High Growth)
+few-shot,1,25,0.27,5.55,2.974,15.29,Emergent (High Growth)
+surpass,1,25,0.27,5.55,2.974,15.29,Emergent (High Growth)
+comprehensive,6,71,1.62,15.75,2.941,9.24,Emergent (High Growth)
+education,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+intricate,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+delve,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+turbo,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+applicability,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+rag,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+forget,0,15,0.0,3.33,2.936,34.27,Emergent (High Growth)
+critique,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+creativity,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+icl,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+mitigation,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+harness,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+misinformation,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+peft,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+finetuning,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+lora,0,14,0.0,3.11,2.85,32.06,Emergent (High Growth)
+aes,0,13,0.0,2.88,2.759,29.84,Emergent (High Growth)
+self-supervised,0,13,0.0,2.88,2.759,29.84,Emergent (High Growth)
+enhance,11,103,2.96,22.85,2.754,7.49,Emergent (High Growth)
+underscore,1,21,0.27,4.66,2.745,12.89,Emergent (High Growth)
+augmentation,2,28,0.54,6.21,2.692,9.88,Emergent (High Growth)
+edit,4,43,1.08,9.54,2.67,8.19,Emergent (High Growth)
+foster,0,12,0.0,2.66,2.661,27.62,Emergent (High Growth)
+utilizing,0,12,0.0,2.66,2.661,27.62,Emergent (High Growth)
+lightweight,0,12,0.0,2.66,2.661,27.62,Emergent (High Growth)
+prevalent,0,12,0.0,2.66,2.661,27.62,Emergent (High Growth)
+style,3,35,0.81,7.76,2.66,8.66,Emergent (High Growth)
+zero-shot,5,50,1.35,11.09,2.65,7.74,Emergent (High Growth)
+domain-specific,2,27,0.54,5.99,2.644,9.54,Emergent (High Growth)
+demonstration,1,19,0.27,4.21,2.616,11.68,Emergent (High Growth)
+shift,1,19,0.27,4.21,2.616,11.68,Emergent (High Growth)
+legal,2,26,0.54,5.77,2.593,9.19,Emergent (High Growth)
+diverse,9,77,2.42,17.08,2.588,6.81,Emergent (High Growth)
+exhibit,6,54,1.62,11.98,2.56,7.04,Emergent (High Growth)
+emergence,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+identity,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+fairness,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+neuron,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+responsible,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+ssl,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+mbr,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+distillation,0,11,0.0,2.44,2.556,25.4,Emergent (High Growth)
+mental,2,24,0.54,5.32,2.487,8.49,Emergent (High Growth)
+mitigate,5,44,1.35,9.76,2.474,6.82,Emergent (High Growth)
+encompass,1,17,0.27,3.77,2.473,10.48,Emergent (High Growth)
+machine-generated,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+stereotype,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+theme,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+subtasks,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+trustworthiness,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+instruction-following,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+closed-source,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+in-depth,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+transportation,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+jailbreak,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+examination,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+parameter-efficient,0,10,0.0,2.22,2.443,23.18,Emergent (High Growth)
+taxonomy,3,29,0.81,6.43,2.406,7.2,Emergent (High Growth)
+innovative,1,16,0.27,3.55,2.396,9.88,Emergent (High Growth)
+consistency,2,22,0.54,4.88,2.373,7.8,Emergent (High Growth)
+reliability,2,22,0.54,4.88,2.373,7.8,Emergent (High Growth)
+fine-tune,2,22,0.54,4.88,2.373,7.8,Emergent (High Growth)
+mgt,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+evaluator,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+therapy,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+lms,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+diagnostic,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+contamination,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+continual,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+volume,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+neglect,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+indicator,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+adaptability,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+exceptional,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+debug,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+defense,0,9,0.0,2.0,2.32,20.96,Emergent (High Growth)
+implication,1,15,0.27,3.33,2.315,9.28,Emergent (High Growth)
+foundation,3,26,0.81,5.77,2.261,6.46,Emergent (High Growth)
+exploration,2,20,0.54,4.44,2.249,7.1,Emergent (High Growth)
+downstream,7,48,1.88,10.65,2.225,5.41,Emergent (High Growth)
+brand,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+tokens,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+begin,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+rumor,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+unlock,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+ethical,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+educational,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+quantum,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+cross-modal,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+long-context,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+picox,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+unveil,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+smile,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+speculative,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+mechanic,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+harm,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+climate,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+provider,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+depression,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+impossible,0,8,0.0,1.77,2.186,18.75,Emergent (High Growth)
+highlight,10,63,2.69,13.97,2.181,5.04,Emergent (High Growth)
+potential,19,111,5.12,24.62,2.161,4.74,Emergent (High Growth)
+tailor,3,24,0.81,5.32,2.155,5.97,Emergent (High Growth)
+reasoning,9,56,2.42,12.42,2.144,4.96,Emergent (High Growth)
+recipe,1,13,0.27,2.88,2.137,8.08,Emergent (High Growth)
+security,1,13,0.27,2.88,2.137,8.08,Emergent (High Growth)
+superior,4,29,1.08,6.43,2.136,5.55,Emergent (High Growth)
+efficacy,3,23,0.81,5.1,2.099,5.73,Emergent (High Growth)
+emphasize,3,23,0.81,5.1,2.099,5.73,Emergent (High Growth)
+risk,4,28,1.08,6.21,2.089,5.36,Emergent (High Growth)
+reveal,9,52,2.42,11.53,2.042,4.61,Emergent (High Growth)
+head,1,12,0.27,2.66,2.039,7.48,Emergent (High Growth)
+job,1,12,0.27,2.66,2.039,7.48,Emergent (High Growth)
+planning,1,12,0.27,2.66,2.039,7.48,Emergent (High Growth)
+contribute,5,31,1.35,6.88,1.998,4.82,Emergent (High Growth)
+tune,4,26,1.08,5.77,1.991,4.98,Emergent (High Growth)
+format,4,26,1.08,5.77,1.991,4.98,Emergent (High Growth)
+light,2,16,0.54,3.55,1.963,5.72,Emergent (High Growth)
+response,17,86,4.58,19.08,1.947,4.1,Emergent (High Growth)
+molecular,1,11,0.27,2.44,1.934,6.88,Emergent (High Growth)
+realm,1,11,0.27,2.44,1.934,6.88,Emergent (High Growth)
+continue,1,11,0.27,2.44,1.934,6.88,Emergent (High Growth)
+vital,1,11,0.27,2.44,1.934,6.88,Emergent (High Growth)
+extent,1,11,0.27,2.44,1.934,6.88,Emergent (High Growth)
+assessment,6,34,1.62,7.54,1.927,4.45,Emergent (High Growth)
+conclusion,3,20,0.81,4.44,1.916,5.0,Emergent (High Growth)
+bias,14,70,3.77,15.53,1.908,4.04,Emergent (High Growth)
+generation,43,200,11.58,44.36,1.893,3.81,Emergent (High Growth)
+feedback,8,42,2.15,9.32,1.887,4.18,Emergent (High Growth)
+robustness,4,24,1.08,5.32,1.885,4.61,Emergent (High Growth)
+notably,2,15,0.54,3.33,1.882,5.37,Emergent (High Growth)
+considerable,2,15,0.54,3.33,1.882,5.37,Emergent (High Growth)
+precise,2,15,0.54,3.33,1.882,5.37,Emergent (High Growth)
+pre-trained,14,66,3.77,14.64,1.826,3.81,Emergent (High Growth)
+synthesize,1,10,0.27,2.22,1.821,6.28,Emergent (High Growth)
+validity,1,10,0.27,2.22,1.821,6.28,Emergent (High Growth)
+incorrect,1,10,0.27,2.22,1.821,6.28,Emergent (High Growth)
+sota,1,10,0.27,2.22,1.821,6.28,Emergent (High Growth)
+vision-language,1,10,0.27,2.22,1.821,6.28,Emergent (High Growth)
+human-like,2,14,0.54,3.11,1.796,5.02,Emergent (High Growth)
+chain,2,14,0.54,3.11,1.796,5.02,Emergent (High Growth)
+skill,2,14,0.54,3.11,1.796,5.02,Emergent (High Growth)
+safety,3,18,0.81,3.99,1.781,4.51,Emergent (High Growth)
+medical,15,68,4.04,15.08,1.78,3.67,Emergent (High Growth)
+recall,4,22,1.08,4.88,1.77,4.23,Emergent (High Growth)
+practical,7,34,1.88,7.54,1.754,3.85,Emergent (High Growth)
+retrieval,15,66,4.04,14.64,1.738,3.56,Emergent (High Growth)
+limitation,12,53,3.23,11.76,1.716,3.56,Emergent (High Growth)
+multi-modal,7,33,1.88,7.32,1.713,3.74,Emergent (High Growth)
+care,5,25,1.35,5.55,1.711,3.9,Emergent (High Growth)
+ground,5,25,1.35,5.55,1.711,3.9,Emergent (High Growth)
+bring,4,21,1.08,4.66,1.71,4.04,Emergent (High Growth)
+remove,3,17,0.81,3.77,1.707,4.26,Emergent (High Growth)
+expertise,2,13,0.54,2.88,1.704,4.67,Emergent (High Growth)
+center,1,9,0.27,2.0,1.698,5.68,Emergent (High Growth)
+excel,1,9,0.27,2.0,1.698,5.68,Emergent (High Growth)
+google,1,9,0.27,2.0,1.698,5.68,Emergent (High Growth)
+tabular,1,9,0.27,2.0,1.698,5.68,Emergent (High Growth)
+proposition,1,9,0.27,2.0,1.698,5.68,Emergent (High Growth)
+assess,15,63,4.04,13.97,1.673,3.4,Emergent (High Growth)
+ability,27,105,7.27,23.29,1.614,3.17,Emergent (High Growth)
+compromise,2,12,0.54,2.66,1.606,4.33,Emergent (High Growth)
+accessible,2,12,0.54,2.66,1.606,4.33,Emergent (High Growth)
+law,2,12,0.54,2.66,1.606,4.33,Emergent (High Growth)
+cloud,2,12,0.54,2.66,1.606,4.33,Emergent (High Growth)
+finding,15,60,4.04,13.31,1.605,3.24,Emergent (High Growth)
+advanced,5,23,1.35,5.1,1.601,3.6,Emergent (High Growth)
+inherent,5,23,1.35,5.1,1.601,3.6,Emergent (High Growth)
+code,48,180,12.92,39.93,1.59,3.07,Emergent (High Growth)
+factual,4,19,1.08,4.21,1.58,3.67,Emergent (High Growth)
+causal,6,26,1.62,5.77,1.567,3.42,Emergent (High Growth)
+shed,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+hint,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+harmful,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+showcase,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+sub-tasks,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+calibration,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+capacity,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+high-resource,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+github,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+detector,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+edge,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+aforementioned,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+backbone,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+discern,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+personalized,1,8,0.27,1.77,1.564,5.08,Emergent (High Growth)
+retrieve,3,15,0.81,3.33,1.549,3.78,Emergent (High Growth)
+contrastive,3,15,0.81,3.33,1.549,3.78,Emergent (High Growth)
+chatbot,3,15,0.81,3.33,1.549,3.78,Emergent (High Growth)
+insight,10,39,2.69,8.65,1.519,3.13,Emergent (High Growth)
+pose,8,32,2.15,7.1,1.517,3.19,Emergent (High Growth)
+leverage,21,77,5.65,17.08,1.514,2.99,Emergent (High Growth)
+impressive,4,18,1.08,3.99,1.51,3.48,Emergent (High Growth)
+refine,4,18,1.08,3.99,1.51,3.48,Emergent (High Growth)
+specialized,4,18,1.08,3.99,1.51,3.48,Emergent (High Growth)
+across,43,152,11.58,33.72,1.502,2.9,Emergent (High Growth)
+notable,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+execution,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+flexibility,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+overlook,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+trade-off,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+decision-making,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+pave,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+rigorous,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+hold,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+weak,2,11,0.54,2.44,1.501,3.98,Emergent (High Growth)
+struggle,5,21,1.35,4.66,1.482,3.29,Moderate Rise
+alignment,14,51,3.77,11.31,1.468,2.95,Moderate Rise
+decoding,3,14,0.81,3.11,1.463,3.53,Moderate Rise
+creation,3,14,0.81,3.11,1.463,3.53,Moderate Rise
+valuable,6,24,1.62,5.32,1.461,3.16,Moderate Rise
+capable,6,24,1.62,5.32,1.461,3.16,Moderate Rise
+open-source,10,37,2.69,8.21,1.448,2.97,Moderate Rise
+template,4,17,1.08,3.77,1.437,3.29,Moderate Rise
+divide,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+rise,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+task-oriented,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+safe,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+functionality,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+hospital,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+failure,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+era,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+elicit,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+society,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+excellent,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+human-annotated,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+mask,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+client,1,7,0.27,1.55,1.416,4.48,Moderate Rise
+like,29,97,7.81,21.52,1.406,2.73,Moderate Rise
+ensure,6,23,1.62,5.1,1.405,3.03,Moderate Rise
+enrich,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+prone,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+truth,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+cultural,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+bengali,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+proxy,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+request,2,10,0.54,2.22,1.388,3.63,Moderate Rise
+constraint,8,29,2.15,6.43,1.385,2.9,Moderate Rise
+strategy,28,92,7.54,20.41,1.379,2.68,Moderate Rise
+effectiveness,24,79,6.46,17.52,1.372,2.69,Moderate Rise
+intelligence,10,35,2.69,7.76,1.372,2.82,Moderate Rise
+billion,3,13,0.81,2.88,1.371,3.29,Moderate Rise
+intention,4,16,1.08,3.55,1.36,3.1,Moderate Rise
+offer,14,47,3.77,10.43,1.356,2.72,Moderate Rise
+statement,5,19,1.35,4.21,1.353,2.98,Moderate Rise
+guide,6,22,1.62,4.88,1.347,2.9,Moderate Rise
+emotional,7,25,1.88,5.55,1.342,2.84,Moderate Rise
+reference,9,31,2.42,6.88,1.335,2.76,Moderate Rise
+reason,26,83,7.0,18.41,1.334,2.61,Moderate Rise
+gap,15,48,4.04,10.65,1.296,2.6,Moderate Rise
+crucial,11,36,2.96,7.99,1.293,2.64,Moderate Rise
+efficiency,9,30,2.42,6.65,1.291,2.68,Moderate Rise
+perspective,8,27,2.15,5.99,1.29,2.7,Moderate Rise
+might,5,18,1.35,3.99,1.283,2.83,Moderate Rise
+reveals,4,15,1.08,3.33,1.279,2.91,Moderate Rise
+mark,3,12,0.81,2.66,1.274,3.04,Moderate Rise
+presence,3,12,0.81,2.66,1.274,3.04,Moderate Rise
+extensive,27,82,7.27,18.19,1.266,2.48,Moderate Rise
+devise,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+imbalance,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+tuning,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+confidence,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+categorize,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+seven,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+autoregressive,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+physical,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+clip,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+particularly,14,44,3.77,9.76,1.265,2.55,Moderate Rise
+material,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+erroneous,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+consequently,2,9,0.54,2.0,1.265,3.28,Moderate Rise
+additionally,13,41,3.5,9.09,1.262,2.55,Moderate Rise
+critical,12,38,3.23,8.43,1.259,2.56,Moderate Rise
+patient,10,32,2.69,7.1,1.251,2.58,Moderate Rise
+length,9,29,2.42,6.43,1.246,2.59,Moderate Rise
+serve,8,26,2.15,5.77,1.24,2.6,Moderate Rise
+large,129,373,34.73,82.74,1.24,2.38,Moderate Rise
+cognitive,7,23,1.88,5.1,1.232,2.62,Moderate Rise
+maintain,6,20,1.62,4.44,1.222,2.64,Moderate Rise
+potentially,6,20,1.62,4.44,1.222,2.64,Moderate Rise
+optimization,11,34,2.96,7.54,1.216,2.5,Moderate Rise
+window,5,17,1.35,3.77,1.21,2.68,Moderate Rise
+progress,5,17,1.35,3.77,1.21,2.68,Moderate Rise
+cost,14,42,3.77,9.32,1.201,2.43,Moderate Rise
+generalization,9,28,2.42,6.21,1.199,2.5,Moderate Rise
+perception,4,14,1.08,3.11,1.193,2.72,Moderate Rise
+chat,4,14,1.08,3.11,1.193,2.72,Moderate Rise
+comparative,4,14,1.08,3.11,1.193,2.72,Moderate Rise
+emerge,8,25,2.15,5.55,1.188,2.5,Moderate Rise
+generative,20,58,5.39,12.87,1.183,2.36,Moderate Rise
+future,19,55,5.12,12.2,1.177,2.36,Moderate Rise
+spatial,7,22,1.88,4.88,1.174,2.51,Moderate Rise
+moment,3,11,0.81,2.44,1.169,2.8,Moderate Rise
+persona,3,11,0.81,2.44,1.169,2.8,Moderate Rise
+counterpart,3,11,0.81,2.44,1.169,2.8,Moderate Rise
+facilitate,14,41,3.77,9.09,1.168,2.38,Moderate Rise
+essential,6,19,1.62,4.21,1.156,2.52,Moderate Rise
+thereby,6,19,1.62,4.21,1.156,2.52,Moderate Rise
+personality,9,27,2.42,5.99,1.15,2.41,Moderate Rise
+unique,8,24,2.15,5.32,1.134,2.41,Moderate Rise
+nlg,5,16,1.35,3.55,1.133,2.52,Moderate Rise
+caption,5,16,1.35,3.55,1.133,2.52,Moderate Rise
+compression,5,16,1.35,3.55,1.133,2.52,Moderate Rise
+systematic,5,16,1.35,3.55,1.133,2.52,Moderate Rise
+organization,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+campaign,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+duration,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+superiority,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+prune,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+widespread,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+absence,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+unclear,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+suite,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+pivotal,2,8,0.54,1.77,1.131,2.94,Moderate Rise
+token,18,50,4.85,11.09,1.116,2.26,Moderate Rise
+agent,37,100,9.96,22.18,1.116,2.21,Moderate Rise
+survey,7,21,1.88,4.66,1.113,2.4,Moderate Rise
+speak,7,21,1.88,4.66,1.113,2.4,Moderate Rise
+consideration,4,13,1.08,2.88,1.101,2.53,Moderate Rise
+robust,14,39,3.77,8.65,1.1,2.26,Moderate Rise
+student,6,18,1.62,3.99,1.087,2.39,Moderate Rise
+demand,6,18,1.62,3.99,1.087,2.39,Moderate Rise
+video,13,36,3.5,7.99,1.085,2.25,Moderate Rise
+establish,10,28,2.69,6.21,1.072,2.26,Moderate Rise
+hinder,3,10,0.81,2.22,1.056,2.55,Moderate Rise
+yet,13,35,3.5,7.76,1.047,2.18,Moderate Rise
+multilingual,20,52,5.39,11.53,1.032,2.12,Moderate Rise
+four,10,27,2.69,5.99,1.023,2.18,Moderate Rise
+content,34,86,9.15,19.08,1.02,2.07,Moderate Rise
+paradigm,8,22,2.15,4.88,1.019,2.21,Moderate Rise
+recognize,6,17,1.62,3.77,1.014,2.26,Moderate Rise
+detailed,6,17,1.62,3.77,1.014,2.26,Moderate Rise
+influence,6,17,1.62,3.77,1.014,2.26,Moderate Rise
+primarily,6,17,1.62,3.77,1.014,2.26,Moderate Rise
+intermediate,6,17,1.62,3.77,1.014,2.26,Moderate Rise
+deployment,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+rapid,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+massive,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+early,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+comprise,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+scalability,4,12,1.08,2.66,1.004,2.35,Moderate Rise
+preference,11,29,2.96,6.43,1.002,2.13,Moderate Rise
+synthetic,9,24,2.42,5.32,0.994,2.15,Moderate Rise
+development,24,60,6.46,13.31,0.988,2.04,Moderate Rise
+ablation,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+industrial,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+root,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+probe,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+commercial,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+nlu,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+avenue,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+adoption,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+costly,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+propagation,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+forgetting,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+alongside,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+avoid,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+page,2,7,0.54,1.55,0.983,2.59,Moderate Rise
+boost,5,14,1.35,3.11,0.966,2.22,Moderate Rise
+poor,5,14,1.35,3.11,0.966,2.22,Moderate Rise
+modify,5,14,1.35,3.11,0.966,2.22,Moderate Rise
+aim,30,73,8.08,16.19,0.961,1.99,Moderate Rise
+key,20,49,5.39,10.87,0.95,2.0,Moderate Rise
+concern,15,37,4.04,8.21,0.94,2.01,Moderate Rise
+bridge,9,23,2.42,5.1,0.938,2.06,Moderate Rise
+difficulty,9,23,2.42,5.1,0.938,2.06,Moderate Rise
+gender,9,23,2.42,5.1,0.938,2.06,Moderate Rise
+inspire,6,16,1.62,3.55,0.937,2.13,Moderate Rise
+specific,31,74,8.35,16.41,0.935,1.96,Moderate Rise
+publication,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+business,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+innovation,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+attract,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+prominent,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+notice,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+investigation,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+sufficient,3,9,0.81,2.0,0.933,2.31,Moderate Rise
+methodology,13,32,3.5,7.1,0.926,2.0,Moderate Rise
+uncertainty,7,18,1.88,3.99,0.914,2.06,Moderate Rise
+fail,7,18,1.88,3.99,0.914,2.06,Moderate Rise
+advance,18,43,4.85,9.54,0.909,1.95,Moderate Rise
+align,11,27,2.96,5.99,0.907,1.99,Moderate Rise
+toxicity,4,11,1.08,2.44,0.899,2.16,Moderate Rise
+even,27,63,7.27,13.97,0.898,1.91,Moderate Rise
+location,8,20,2.15,4.44,0.895,2.01,Moderate Rise
+direction,12,29,3.23,6.43,0.894,1.96,Moderate Rise
+impact,17,40,4.58,8.87,0.884,1.92,Moderate Rise
+substantial,13,31,3.5,6.88,0.883,1.94,Moderate Rise
+generator,5,13,1.35,2.88,0.874,2.06,Moderate Rise
+handle,14,33,3.77,7.32,0.873,1.92,Moderate Rise
+efficiently,6,15,1.62,3.33,0.855,2.0,Moderate Rise
+diagnosis,6,15,1.62,3.33,0.855,2.0,Moderate Rise
+indicate,18,41,4.85,9.09,0.844,1.86,Moderate Rise
+expert,18,41,4.85,9.09,0.844,1.86,Moderate Rise
+vary,7,17,1.88,3.77,0.841,1.95,Moderate Rise
+trait,7,17,1.88,3.77,0.841,1.95,Moderate Rise
+employ,30,67,8.08,14.86,0.841,1.83,Moderate Rise
+tackle,14,32,3.77,7.1,0.832,1.86,Moderate Rise
+plan,8,19,2.15,4.21,0.829,1.91,Moderate Rise
+limit,16,36,4.31,7.99,0.82,1.83,Moderate Rise
+gene,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+encounter,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+norm,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+interlocutor,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+mutual,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+insert,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+lengthy,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+documentation,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+compact,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+incorporation,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+model-based,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+government,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+price,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+hindi,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+making,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+consequence,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+false,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+compress,2,6,0.54,1.33,0.818,2.24,Moderate Rise
+generated,10,23,2.69,5.1,0.811,1.86,Moderate Rise
+application,61,131,16.42,29.06,0.804,1.76,Moderate Rise
+bound,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+nearly,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+encoders,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+predictive,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+promote,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+gpu,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+respective,3,8,0.81,1.77,0.798,2.07,Moderate Rise
+range,24,52,6.46,11.53,0.79,1.77,Moderate Rise
+external,14,31,3.77,6.88,0.789,1.8,Moderate Rise
+side,4,10,1.08,2.22,0.785,1.97,Moderate Rise
+convert,4,10,1.08,2.22,0.785,1.97,Moderate Rise
+fit,4,10,1.08,2.22,0.785,1.97,Moderate Rise
+static,4,10,1.08,2.22,0.785,1.97,Moderate Rise
+challenge,93,196,25.04,43.48,0.784,1.73,Moderate Rise
+within,39,83,10.5,18.41,0.782,1.75,Moderate Rise
+simulate,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+adaptive,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+primary,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+systematically,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+teacher,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+usage,5,12,1.35,2.66,0.776,1.91,Moderate Rise
+audio,20,43,5.39,9.54,0.77,1.76,Moderate Rise
+reliable,6,14,1.62,3.11,0.769,1.87,Moderate Rise
+extension,7,16,1.88,3.55,0.764,1.84,Moderate Rise
+choice,8,18,2.15,3.99,0.759,1.82,Moderate Rise
+prove,10,22,2.69,4.88,0.753,1.78,Moderate Rise
+translate,14,30,3.77,6.65,0.745,1.75,Moderate Rise
+effect,20,42,5.39,9.32,0.738,1.72,Moderate Rise
+lead,35,71,9.42,15.75,0.711,1.66,Moderate Rise
+scenario,27,55,7.27,12.2,0.709,1.67,Moderate Rise
+efficient,24,49,6.46,10.87,0.708,1.67,Moderate Rise
+fact,20,41,5.39,9.09,0.705,1.68,Moderate Rise
+pipeline,15,31,4.04,6.88,0.701,1.69,Moderate Rise
+artificial,15,31,4.04,6.88,0.701,1.69,Moderate Rise
+consistently,12,25,3.23,5.55,0.696,1.69,Moderate Rise
+reward,11,23,2.96,5.1,0.694,1.7,Moderate Rise
+accurately,11,23,2.96,5.1,0.694,1.7,Moderate Rise
+human,92,182,24.77,40.37,0.694,1.63,Moderate Rise
+validate,11,23,2.96,5.1,0.694,1.7,Moderate Rise
+increase,33,66,8.89,14.64,0.69,1.64,Moderate Rise
+conventional,9,19,2.42,4.21,0.69,1.71,Moderate Rise
+span,9,19,2.42,4.21,0.69,1.71,Moderate Rise
+field,32,64,8.62,14.2,0.689,1.64,Moderate Rise
+understanding,31,62,8.35,13.75,0.688,1.64,Moderate Rise
+beyond,8,17,2.15,3.77,0.686,1.72,Moderate Rise
+trend,8,17,2.15,3.77,0.686,1.72,Moderate Rise
+requirement,8,17,2.15,3.77,0.686,1.72,Moderate Rise
+detail,8,17,2.15,3.77,0.686,1.72,Moderate Rise
+assist,7,15,1.88,3.33,0.682,1.73,Moderate Rise
+broad,6,13,1.62,2.88,0.678,1.74,Moderate Rise
+hence,6,13,1.62,2.88,0.678,1.74,Moderate Rise
+structural,6,13,1.62,2.88,0.678,1.74,Moderate Rise
+likely,6,13,1.62,2.88,0.678,1.74,Moderate Rise
+integration,5,11,1.35,2.44,0.671,1.76,Moderate Rise
+numerous,5,11,1.35,2.44,0.671,1.76,Moderate Rise
+intrinsic,5,11,1.35,2.44,0.671,1.76,Moderate Rise
+objective,18,36,4.85,7.99,0.666,1.63,Moderate Rise
+aid,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+seek,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+setup,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+latency,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+nevertheless,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+assumption,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+unstructured,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+sensitive,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+rapidly,4,9,1.08,2.0,0.663,1.78,Moderate Rise
+introduce,89,172,23.96,38.15,0.66,1.59,Moderate Rise
+free-form,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+exceed,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+benchmarking,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+confirm,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+math,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+time-consuming,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+two-stage,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+logic,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+perturbation,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+region,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+frequent,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+principle,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+extensible,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+thought,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+inspiration,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+calculation,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+device,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+behind,3,7,0.81,1.55,0.65,1.82,Moderate Rise
+specifically,30,58,8.08,12.87,0.64,1.59,Moderate Rise
+position,11,22,2.96,4.88,0.636,1.63,Moderate Rise
+derive,11,22,2.96,4.88,0.636,1.63,Moderate Rise
+full,9,18,2.42,3.99,0.62,1.62,Moderate Rise
+complete,9,18,2.42,3.99,0.62,1.62,Moderate Rise
+limited,16,31,4.31,6.88,0.617,1.58,Moderate Rise
+commonly,8,16,2.15,3.55,0.609,1.62,Moderate Rise
+especially,21,40,5.65,8.87,0.607,1.56,Moderate Rise
+sample,27,51,7.27,11.31,0.604,1.55,Moderate Rise
+language,456,840,122.78,186.33,0.6,1.52,Moderate Rise
+extend,13,25,3.5,5.55,0.596,1.57,Moderate Rise
+logical,7,14,1.88,3.11,0.596,1.62,Moderate Rise
+focus,46,85,12.39,18.85,0.587,1.52,Moderate Rise
+series,12,23,3.23,5.1,0.586,1.56,Moderate Rise
+act,6,12,1.62,2.66,0.58,1.61,Moderate Rise
+inconsistent,6,12,1.62,2.66,0.58,1.61,Moderate Rise
+transcript,6,12,1.62,2.66,0.58,1.61,Moderate Rise
+verify,6,12,1.62,2.66,0.58,1.61,Moderate Rise
+alternative,11,21,2.96,4.66,0.575,1.55,Moderate Rise
+version,11,21,2.96,4.66,0.575,1.55,Moderate Rise
+subject,11,21,2.96,4.66,0.575,1.55,Moderate Rise
+remain,20,37,5.39,8.21,0.565,1.51,Moderate Rise
+determine,10,19,2.69,4.21,0.562,1.55,Moderate Rise
+distinct,10,19,2.69,4.21,0.562,1.55,Moderate Rise
+initial,10,19,2.69,4.21,0.562,1.55,Moderate Rise
+power,10,19,2.69,4.21,0.562,1.55,Moderate Rise
+evolution,5,10,1.35,2.22,0.558,1.6,Moderate Rise
+question-answering,5,10,1.35,2.22,0.558,1.6,Moderate Rise
+activity,5,10,1.35,2.22,0.558,1.6,Moderate Rise
+definition,5,10,1.35,2.22,0.558,1.6,Moderate Rise
+scope,5,10,1.35,2.22,0.558,1.6,Moderate Rise
+setting,28,51,7.54,11.31,0.555,1.49,Moderate Rise
+cross-lingual,14,26,3.77,5.77,0.554,1.52,Moderate Rise
+health,18,33,4.85,7.32,0.549,1.5,Moderate Rise
+issue,40,72,10.77,15.97,0.547,1.48,Moderate Rise
+due,40,72,10.77,15.97,0.547,1.48,Moderate Rise
+high-quality,13,24,3.5,5.32,0.542,1.51,Moderate Rise
+control,17,31,4.58,6.88,0.539,1.49,Moderate Rise
+flexible,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+strength,8,15,2.15,3.33,0.528,1.52,Moderate Rise
+internet,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+operate,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+stock,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+hope,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+preprocessing,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+api,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+expand,8,15,2.15,3.33,0.528,1.52,Moderate Rise
+deliver,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+completion,4,8,1.08,1.77,0.528,1.59,Moderate Rise
+include,68,120,18.31,26.62,0.528,1.45,Moderate Rise
+raise,8,15,2.15,3.33,0.528,1.52,Moderate Rise
+involve,24,43,6.46,9.54,0.528,1.47,Moderate Rise
+metric,46,81,12.39,17.97,0.519,1.45,Moderate Rise
+automate,15,27,4.04,5.99,0.516,1.47,Moderate Rise
+increasingly,11,20,2.96,4.44,0.512,1.48,Moderate Rise
+fine-grained,11,20,2.96,4.44,0.512,1.48,Moderate Rise
+scale,22,39,5.92,8.65,0.511,1.45,Moderate Rise
+case,33,58,8.89,12.87,0.51,1.44,Moderate Rise
+behavior,25,44,6.73,9.76,0.505,1.44,Moderate Rise
+multimodal,27,47,7.27,10.43,0.492,1.43,Stable
+weight,13,23,3.5,5.1,0.486,1.44,Stable
+emergency,3,6,0.81,1.33,0.485,1.58,Stable
+text-to-speech,3,6,0.81,1.33,0.485,1.58,Stable
+execute,3,6,0.81,1.33,0.485,1.58,Stable
+fixed,3,6,0.81,1.33,0.485,1.58,Stable
+cascade,3,6,0.81,1.33,0.485,1.58,Stable
+industry,3,6,0.81,1.33,0.485,1.58,Stable
+cross-domain,3,6,0.81,1.33,0.485,1.58,Stable
+insufficient,3,6,0.81,1.33,0.485,1.58,Stable
+string,3,6,0.81,1.33,0.485,1.58,Stable
+organize,3,6,0.81,1.33,0.485,1.58,Stable
+recommend,3,6,0.81,1.33,0.485,1.58,Stable
+approximately,3,6,0.81,1.33,0.485,1.58,Stable
+perceive,3,6,0.81,1.33,0.485,1.58,Stable
+iteration,3,6,0.81,1.33,0.485,1.58,Stable
+configuration,3,6,0.81,1.33,0.485,1.58,Stable
+higher-level,3,6,0.81,1.33,0.485,1.58,Stable
+wide,16,28,4.31,6.21,0.481,1.43,Stable
+publicly,19,33,5.12,7.32,0.478,1.42,Stable
+novelty,6,11,1.62,2.44,0.475,1.48,Stable
+scene,6,11,1.62,2.44,0.475,1.48,Stable
+evolve,6,11,1.62,2.44,0.475,1.48,Stable
+total,6,11,1.62,2.44,0.475,1.48,Stable
+utility,6,11,1.62,2.44,0.475,1.48,Stable
+deploy,9,16,2.42,3.55,0.47,1.45,Stable
+discussion,9,16,2.42,3.55,0.47,1.45,Stable
+outcome,9,16,2.42,3.55,0.47,1.45,Stable
+preserve,9,16,2.42,3.55,0.47,1.45,Stable
+contextual,12,21,3.23,4.66,0.467,1.43,Stable
+nature,12,21,3.23,4.66,0.467,1.43,Stable
+size,33,56,8.89,12.42,0.461,1.39,Stable
+design,53,89,14.27,19.74,0.455,1.38,Stable
+decode,17,29,4.58,6.43,0.449,1.4,Stable
+great,17,29,4.58,6.43,0.449,1.4,Stable
+criterion,8,14,2.15,3.11,0.442,1.42,Stable
+promise,8,14,2.15,3.11,0.442,1.42,Stable
+enable,36,60,9.69,13.31,0.438,1.37,Stable
+nlp,47,78,12.66,17.3,0.436,1.36,Stable
+paraphrase,5,9,1.35,2.0,0.435,1.45,Stable
+diffusion,5,9,1.35,2.0,0.435,1.45,Stable
+carefully,5,9,1.35,2.0,0.435,1.45,Stable
+sometimes,5,9,1.35,2.0,0.435,1.45,Stable
+respond,5,9,1.35,2.0,0.435,1.45,Stable
+summarize,5,9,1.35,2.0,0.435,1.45,Stable
+image,55,91,14.81,20.19,0.434,1.36,Stable
+asr,24,40,6.46,8.87,0.429,1.37,Stable
+need,40,66,10.77,14.64,0.426,1.36,Stable
+suffer,10,17,2.69,3.77,0.42,1.39,Stable
+explain,10,17,2.69,3.77,0.42,1.39,Stable
+unified,10,17,2.69,3.77,0.42,1.39,Stable
+update,10,17,2.69,3.77,0.42,1.39,Stable
+adopt,15,25,4.04,5.55,0.414,1.36,Stable
+knowledge,118,191,31.77,42.37,0.41,1.33,Stable
+complex,43,70,11.58,15.53,0.408,1.34,Stable
+rather,7,12,1.88,2.66,0.407,1.39,Stable
+formal,7,12,1.88,2.66,0.407,1.39,Stable
+average,12,20,3.23,4.44,0.404,1.36,Stable
+web,17,28,4.58,6.21,0.402,1.35,Stable
+value,17,28,4.58,6.21,0.402,1.35,Stable
+adapt,19,31,5.12,6.88,0.393,1.34,Stable
+overcome,9,15,2.42,3.33,0.389,1.36,Stable
+contrast,9,15,2.42,3.33,0.389,1.36,Stable
+research,111,177,29.89,39.26,0.388,1.31,Stable
+suggest,21,34,5.65,7.54,0.386,1.33,Stable
+acquire,4,7,1.08,1.55,0.38,1.4,Stable
+turkish,4,7,1.08,1.55,0.38,1.4,Stable
+comprehend,4,7,1.08,1.55,0.38,1.4,Stable
+every,4,7,1.08,1.55,0.38,1.4,Stable
+dense,4,7,1.08,1.55,0.38,1.4,Stable
+follow,23,37,6.19,8.21,0.38,1.32,Stable
+internal,4,7,1.08,1.55,0.38,1.4,Stable
+iterative,4,7,1.08,1.55,0.38,1.4,Stable
+per,4,7,1.08,1.55,0.38,1.4,Stable
+actual,4,7,1.08,1.55,0.38,1.4,Stable
+late,4,7,1.08,1.55,0.38,1.4,Stable
+intelligent,4,7,1.08,1.55,0.38,1.4,Stable
+conversion,4,7,1.08,1.55,0.38,1.4,Stable
+fully,11,18,2.96,3.99,0.376,1.34,Stable
+graph,43,68,11.58,15.08,0.368,1.3,Stable
+five,13,21,3.5,4.66,0.367,1.32,Stable
+technology,13,21,3.5,4.66,0.367,1.32,Stable
+management,6,10,1.62,2.22,0.362,1.35,Stable
+necessary,6,10,1.62,2.22,0.362,1.35,Stable
+construction,6,10,1.62,2.22,0.362,1.35,Stable
+enhancement,6,10,1.62,2.22,0.362,1.35,Stable
+lack,26,41,7.0,9.09,0.355,1.29,Stable
+assistant,8,13,2.15,2.88,0.35,1.32,Stable
+module,23,36,6.19,7.99,0.342,1.28,Stable
+domain,79,122,21.27,27.06,0.34,1.27,Stable
+low-resource,14,22,3.77,4.88,0.334,1.29,Stable
+small,33,51,8.89,11.31,0.332,1.27,Stable
+stage,16,25,4.31,5.55,0.33,1.28,Stable
+despite,16,25,4.31,5.55,0.33,1.28,Stable
+could,16,25,4.31,5.55,0.33,1.28,Stable
+reduce,41,63,11.04,13.97,0.327,1.26,Stable
+general,29,44,7.81,9.76,0.304,1.25,Stable
+variety,21,32,5.65,7.1,0.304,1.25,Stable
+advantage,17,26,4.58,5.77,0.304,1.25,Stable
+access,9,14,2.42,3.11,0.303,1.27,Stable
+six,9,14,2.42,3.11,0.303,1.27,Stable
+others,9,14,2.42,3.11,0.303,1.27,Stable
+attribute,11,17,2.96,3.77,0.303,1.26,Stable
+fundamental,7,11,1.88,2.44,0.302,1.28,Stable
+mind,7,11,1.88,2.44,0.302,1.28,Stable
+representative,7,11,1.88,2.44,0.302,1.28,Stable
+cue,7,11,1.88,2.44,0.302,1.28,Stable
+sql,5,8,1.35,1.77,0.301,1.3,Stable
+divergence,5,8,1.35,1.77,0.301,1.3,Stable
+block,5,8,1.35,1.77,0.301,1.3,Stable
+qualitative,5,8,1.35,1.77,0.301,1.3,Stable
+vast,5,8,1.35,1.77,0.301,1.3,Stable
+judge,3,5,0.81,1.11,0.299,1.33,Stable
+subsequent,3,5,0.81,1.11,0.299,1.33,Stable
+consisting,3,5,0.81,1.11,0.299,1.33,Stable
+multi-turn,3,5,0.81,1.11,0.299,1.33,Stable
+drop,3,5,0.81,1.11,0.299,1.33,Stable
+numerical,3,5,0.81,1.11,0.299,1.33,Stable
+oracle,3,5,0.81,1.11,0.299,1.33,Stable
+enhanced,3,5,0.81,1.11,0.299,1.33,Stable
+body,3,5,0.81,1.11,0.299,1.33,Stable
+eight,3,5,0.81,1.11,0.299,1.33,Stable
+latter,3,5,0.81,1.11,0.299,1.33,Stable
+maximum,3,5,0.81,1.11,0.299,1.33,Stable
+owe,3,5,0.81,1.11,0.299,1.33,Stable
+spread,3,5,0.81,1.11,0.299,1.33,Stable
+aligned,3,5,0.81,1.11,0.299,1.33,Stable
+fuse,3,5,0.81,1.11,0.299,1.33,Stable
+significant,62,93,16.69,20.63,0.297,1.23,Stable
+often,49,73,13.19,16.19,0.286,1.23,Stable
+communication,24,36,6.46,7.99,0.285,1.23,Stable
+generate,120,178,32.31,39.48,0.285,1.22,Stable
+evidence,16,24,4.31,5.32,0.276,1.23,Stable
+cover,14,21,3.77,4.66,0.273,1.23,Stable
+context,88,129,23.69,28.62,0.267,1.21,Stable
+correlation,10,15,2.69,3.33,0.262,1.23,Stable
+vision,10,15,2.69,3.33,0.262,1.23,Stable
+essay,8,12,2.15,2.66,0.253,1.23,Stable
+trigger,8,12,2.15,2.66,0.253,1.23,Stable
+intent,8,12,2.15,2.66,0.253,1.23,Stable
+empirical,17,25,4.58,5.55,0.252,1.21,Stable
+diversity,15,22,4.04,4.88,0.245,1.2,Stable
+shape,6,9,1.62,2.0,0.239,1.22,Stable
+unlabeled,6,9,1.62,2.0,0.239,1.22,Stable
+engage,6,9,1.62,2.0,0.239,1.22,Stable
+illustrate,6,9,1.62,2.0,0.239,1.22,Stable
+frequently,6,9,1.62,2.0,0.239,1.22,Stable
+solution,27,39,7.27,8.65,0.236,1.19,Stable
+researcher,20,29,5.39,6.43,0.236,1.19,Stable
+pattern,25,36,6.73,7.99,0.231,1.18,Stable
+examine,21,30,5.65,6.65,0.217,1.17,Stable
+practitioner,4,6,1.08,1.33,0.215,1.22,Stable
+adjust,4,6,1.08,1.33,0.215,1.22,Stable
+differ,4,6,1.08,1.33,0.215,1.22,Stable
+answering,4,6,1.08,1.33,0.215,1.22,Stable
+forward,4,6,1.08,1.33,0.215,1.22,Stable
+triplet,4,6,1.08,1.33,0.215,1.22,Stable
+maximize,4,6,1.08,1.33,0.215,1.22,Stable
+arbitrary,4,6,1.08,1.33,0.215,1.22,Stable
+separately,4,6,1.08,1.33,0.215,1.22,Stable
+return,4,6,1.08,1.33,0.215,1.22,Stable
+website,4,6,1.08,1.33,0.215,1.22,Stable
+dialect,4,6,1.08,1.33,0.215,1.22,Stable
+unfortunately,4,6,1.08,1.33,0.215,1.22,Stable
+besides,4,6,1.08,1.33,0.215,1.22,Stable
+observation,4,6,1.08,1.33,0.215,1.22,Stable
+inform,4,6,1.08,1.33,0.215,1.22,Stable
+malicious,4,6,1.08,1.33,0.215,1.22,Stable
+conclude,4,6,1.08,1.33,0.215,1.22,Stable
+utilize,31,44,8.35,9.76,0.214,1.17,Stable
+parameter,41,58,11.04,12.87,0.212,1.16,Stable
+appropriate,9,13,2.42,2.88,0.211,1.18,Stable
+engineering,12,17,3.23,3.77,0.195,1.16,Stable
+point,25,35,6.73,7.76,0.193,1.15,Stable
+benefit,20,28,5.39,6.21,0.189,1.15,Stable
+family,7,10,1.88,2.22,0.189,1.17,Stable
+tool,49,68,13.19,15.08,0.187,1.14,Stable
+augment,15,21,4.04,4.66,0.185,1.15,Stable
+computational,26,36,7.0,7.99,0.178,1.14,Stable
+variant,10,14,2.69,3.11,0.175,1.15,Stable
+negative,10,14,2.69,3.11,0.175,1.15,Stable
+still,35,48,9.42,10.65,0.168,1.13,Stable
+temporal,19,26,5.12,5.77,0.158,1.12,Stable
+instance,22,30,5.92,6.65,0.155,1.12,Stable
+ten,5,7,1.35,1.55,0.153,1.14,Stable
+task-specific,5,7,1.35,1.55,0.153,1.14,Stable
+barrier,5,7,1.35,1.55,0.153,1.14,Stable
+mixed,5,7,1.35,1.55,0.153,1.14,Stable
+degree,5,7,1.35,1.55,0.153,1.14,Stable
+store,5,7,1.35,1.55,0.153,1.14,Stable
+auxiliary,5,7,1.35,1.55,0.153,1.14,Stable
+identify,51,69,13.73,15.31,0.151,1.11,Stable
+conversational,28,38,7.54,8.43,0.151,1.12,Stable
+achieves,8,11,2.15,2.44,0.148,1.13,Stable
+contribution,8,11,2.15,2.44,0.148,1.13,Stable
+draw,8,11,2.15,2.44,0.148,1.13,Stable
+disease,8,11,2.15,2.44,0.148,1.13,Stable
+expensive,8,11,2.15,2.44,0.148,1.13,Stable
+judgment,11,15,2.96,3.33,0.145,1.12,Stable
+dimension,11,15,2.96,3.33,0.145,1.12,Stable
+query,44,59,11.85,13.09,0.138,1.1,Stable
+integrate,27,36,7.27,7.99,0.127,1.1,Stable
+without,58,77,15.62,17.08,0.125,1.09,Stable
+release,18,24,4.85,5.32,0.123,1.1,Stable
+structured,15,20,4.04,4.44,0.121,1.1,Stable
+automated,15,20,4.04,4.44,0.121,1.1,Stable
+script,12,16,3.23,3.55,0.118,1.1,Stable
+incorporate,31,41,8.35,9.09,0.117,1.09,Stable
+relevant,25,33,6.73,7.32,0.113,1.09,Stable
+substantially,9,12,2.42,2.66,0.113,1.09,Stable
+unlike,9,12,2.42,2.66,0.113,1.09,Stable
+receive,9,12,2.42,2.66,0.113,1.09,Stable
+high,54,71,14.54,15.75,0.112,1.08,Stable
+outperforms,6,8,1.62,1.77,0.105,1.09,Stable
+medicine,6,8,1.62,1.77,0.105,1.09,Stable
+shortcoming,6,8,1.62,1.77,0.105,1.09,Stable
+miss,6,8,1.62,1.77,0.105,1.09,Stable
+majority,6,8,1.62,1.77,0.105,1.09,Stable
+signal,16,21,4.31,4.66,0.101,1.08,Stable
+aspect,23,30,6.19,6.65,0.096,1.07,Stable
+consistent,13,17,3.5,3.77,0.094,1.08,Stable
+name,30,39,8.08,8.65,0.093,1.07,Stable
+score,54,70,14.54,15.53,0.092,1.07,Stable
+currently,10,13,2.69,2.88,0.084,1.07,Stable
+mainly,10,13,2.69,2.88,0.084,1.07,Stable
+easy,10,13,2.69,2.88,0.084,1.07,Stable
+observe,17,22,4.58,4.88,0.084,1.06,Stable
+record,10,13,2.69,2.88,0.084,1.07,Stable
+arabic,10,13,2.69,2.88,0.084,1.07,Stable
+input,57,73,15.35,16.19,0.075,1.05,Stable
+report,29,37,7.81,8.21,0.068,1.05,Stable
+face,18,23,4.85,5.1,0.067,1.05,Stable
+interact,7,9,1.88,2.0,0.066,1.06,Stable
+iii,7,9,1.88,2.0,0.066,1.06,Stable
+profile,7,9,1.88,2.0,0.066,1.06,Stable
+classical,7,9,1.88,2.0,0.066,1.06,Stable
+current,48,61,12.92,13.53,0.064,1.05,Stable
+whether,22,28,5.92,6.21,0.063,1.05,Stable
+training,108,137,29.08,30.39,0.063,1.04,Stable
+direct,11,14,2.96,3.11,0.059,1.05,Stable
+powerful,11,14,2.96,3.11,0.059,1.05,Stable
+phase,11,14,2.96,3.11,0.059,1.05,Stable
+improvement,61,77,16.42,17.08,0.055,1.04,Stable
+optimize,19,24,5.12,5.32,0.052,1.04,Stable
+real-world,27,34,7.27,7.54,0.05,1.04,Stable
+comparable,20,25,5.39,5.55,0.039,1.03,Stable
+recommendation,16,20,4.31,4.44,0.038,1.03,Stable
+distinguish,12,15,3.23,3.33,0.037,1.03,Stable
+respectively,12,15,3.23,3.33,0.037,1.03,Stable
+subsequently,8,10,2.15,2.22,0.034,1.03,Stable
+see,8,10,2.15,2.22,0.034,1.03,Stable
+claim,8,10,2.15,2.22,0.034,1.03,Stable
+list,8,10,2.15,2.22,0.034,1.03,Stable
+coverage,8,10,2.15,2.22,0.034,1.03,Stable
+available,75,93,20.19,20.63,0.03,1.02,Stable
+candidate,29,36,7.81,7.99,0.03,1.02,Stable
+decide,4,5,1.08,1.11,0.029,1.03,Stable
+private,4,5,1.08,1.11,0.029,1.03,Stable
+poem,4,5,1.08,1.11,0.029,1.03,Stable
+expansion,4,5,1.08,1.11,0.029,1.03,Stable
+expose,4,5,1.08,1.11,0.029,1.03,Stable
+heuristic,4,5,1.08,1.11,0.029,1.03,Stable
+building,4,5,1.08,1.11,0.029,1.03,Stable
+black-box,4,5,1.08,1.11,0.029,1.03,Stable
+curriculum,4,5,1.08,1.11,0.029,1.03,Stable
+citation,4,5,1.08,1.11,0.029,1.03,Stable
+premise,4,5,1.08,1.11,0.029,1.03,Stable
+microsoft,4,5,1.08,1.11,0.029,1.03,Stable
+par,4,5,1.08,1.11,0.029,1.03,Stable
+coherence,4,5,1.08,1.11,0.029,1.03,Stable
+say,4,5,1.08,1.11,0.029,1.03,Stable
+predefined,4,5,1.08,1.11,0.029,1.03,Stable
+weakness,4,5,1.08,1.11,0.029,1.03,Stable
+retain,4,5,1.08,1.11,0.029,1.03,Stable
+reliably,4,5,1.08,1.11,0.029,1.03,Stable
+beam,4,5,1.08,1.11,0.029,1.03,Stable
+throughout,4,5,1.08,1.11,0.029,1.03,Stable
+decision,17,21,4.58,4.66,0.023,1.02,Stable
+open,30,37,8.08,8.21,0.022,1.02,Stable
+traditional,30,37,8.08,8.21,0.022,1.02,Stable
+understand,43,53,11.58,11.76,0.021,1.02,Stable
+digital,13,16,3.5,3.55,0.017,1.01,Stable
+computation,13,16,3.5,3.55,0.017,1.01,Stable
+dialogue,58,71,15.62,15.75,0.012,1.01,Stable
+program,18,22,4.85,4.88,0.009,1.01,Stable
+generally,9,11,2.42,2.44,0.008,1.01,Stable
+real-time,9,11,2.42,2.44,0.008,1.01,Stable
+evaluate,118,144,31.77,31.94,0.008,1.01,Stable
+transform,9,11,2.42,2.44,0.008,1.01,Stable
+filter,9,11,2.42,2.44,0.008,1.01,Stable
+datasets,123,150,33.12,33.27,0.007,1.0,Stable
+output,55,67,14.81,14.86,0.005,1.0,Stable
+environment,14,17,3.77,3.77,0.0,1.0,Stable
+view,14,17,3.77,3.77,0.0,1.0,Stable
+textual,38,46,10.23,10.2,-0.004,1.0,Stable
+prior,24,29,6.46,6.43,-0.006,1.0,Stable
+success,24,29,6.46,6.43,-0.006,1.0,Stable
+processing,58,70,15.62,15.53,-0.008,0.99,Stable
+raw,5,6,1.35,1.33,-0.012,0.99,Stable
+keep,5,6,1.35,1.33,-0.012,0.99,Stable
+preliminary,5,6,1.35,1.33,-0.012,0.99,Stable
+extensively,5,6,1.35,1.33,-0.012,0.99,Stable
+analyse,5,6,1.35,1.33,-0.012,0.99,Stable
+popularity,5,6,1.35,1.33,-0.012,0.99,Stable
+quantify,5,6,1.35,1.33,-0.012,0.99,Stable
+correctly,5,6,1.35,1.33,-0.012,0.99,Stable
+well-known,5,6,1.35,1.33,-0.012,0.99,Stable
+solely,5,6,1.35,1.33,-0.012,0.99,Stable
+mostly,5,6,1.35,1.33,-0.012,0.99,Stable
+couple,5,6,1.35,1.33,-0.012,0.99,Stable
+iteratively,5,6,1.35,1.33,-0.012,0.99,Stable
+ask,10,12,2.69,2.66,-0.014,0.99,Stable
+another,10,12,2.69,2.66,-0.014,0.99,Stable
+associate,15,18,4.04,3.99,-0.015,0.99,Stable
+make,82,98,22.08,21.74,-0.022,0.98,Stable
+effort,16,19,4.31,4.21,-0.028,0.98,Stable
+social,64,76,17.23,16.86,-0.031,0.98,Stable
+grow,11,13,2.96,2.88,-0.033,0.97,Stable
+may,38,45,10.23,9.98,-0.034,0.98,Stable
+multiple,65,77,17.5,17.08,-0.034,0.98,Stable
+rely,33,39,8.89,8.65,-0.036,0.97,Stable
+become,28,33,7.54,7.32,-0.04,0.97,Stable
+comprehension,17,20,4.58,4.44,-0.041,0.97,Stable
+cause,17,20,4.58,4.44,-0.041,0.97,Stable
+guideline,6,7,1.62,1.55,-0.043,0.96,Stable
+modification,6,7,1.62,1.55,-0.043,0.96,Stable
+stability,6,7,1.62,1.55,-0.043,0.96,Stable
+discovery,6,7,1.62,1.55,-0.043,0.96,Stable
+technical,6,7,1.62,1.55,-0.043,0.96,Stable
+debate,6,7,1.62,1.55,-0.043,0.96,Stable
+news,23,27,6.19,5.99,-0.045,0.97,Stable
+scientific,13,15,3.5,3.33,-0.064,0.95,Stable
+procedure,13,15,3.5,3.33,-0.064,0.95,Stable
+mathematical,7,8,1.88,1.77,-0.068,0.94,Stable
+growth,7,8,1.88,1.77,-0.068,0.94,Stable
+always,7,8,1.88,1.77,-0.068,0.94,Stable
+characterize,7,8,1.88,1.77,-0.068,0.94,Stable
+compose,7,8,1.88,1.77,-0.068,0.94,Stable
+computer,7,8,1.88,1.77,-0.068,0.94,Stable
+strong,27,31,7.27,6.88,-0.075,0.95,Stable
+large-scale,14,16,3.77,3.55,-0.076,0.94,Stable
+several,60,69,16.16,15.31,-0.076,0.95,Stable
+database,14,16,3.77,3.55,-0.076,0.94,Stable
+require,67,77,18.04,17.08,-0.077,0.95,Stable
+project,21,24,5.65,5.32,-0.08,0.94,Stable
+modality,29,33,7.81,7.32,-0.087,0.94,Stable
+subjective,8,9,2.15,2.0,-0.088,0.93,Stable
+wer,8,9,2.15,2.0,-0.088,0.93,Stable
+gain,22,25,5.92,5.55,-0.088,0.94,Stable
+speed,8,9,2.15,2.0,-0.088,0.93,Stable
+attack,22,25,5.92,5.55,-0.088,0.94,Stable
+age,8,9,2.15,2.0,-0.088,0.93,Stable
+place,8,9,2.15,2.0,-0.088,0.93,Stable
+chatbots,8,9,2.15,2.0,-0.088,0.93,Stable
+upon,15,17,4.04,3.77,-0.088,0.94,Stable
+step,37,42,9.96,9.32,-0.092,0.94,Stable
+rate,30,34,8.08,7.54,-0.093,0.93,Stable
+previous,52,59,14.0,13.09,-0.094,0.94,Stable
+factor,23,26,6.19,5.77,-0.095,0.93,Stable
+technique,90,102,24.23,22.63,-0.097,0.93,Stable
+hate,16,18,4.31,3.99,-0.098,0.93,Stable
+summary,24,27,6.46,5.99,-0.102,0.93,Stable
+construct,32,36,8.62,7.99,-0.103,0.93,Stable
+account,9,10,2.42,2.22,-0.105,0.92,Stable
+line,9,10,2.42,2.22,-0.105,0.92,Stable
+argue,9,10,2.42,2.22,-0.105,0.92,Stable
+correct,17,19,4.58,4.21,-0.107,0.92,Stable
+analyze,33,37,8.89,8.21,-0.108,0.92,Stable
+complexity,26,29,7.0,6.43,-0.114,0.92,Stable
+original,27,30,7.27,6.65,-0.119,0.92,Stable
+low,27,30,7.27,6.65,-0.119,0.92,Stable
+mechanism,46,51,12.39,11.31,-0.125,0.91,Stable
+literature,20,22,5.39,4.88,-0.129,0.91,Stable
+far,11,12,2.96,2.66,-0.131,0.9,Stable
+encoder,11,12,2.96,2.66,-0.131,0.9,Stable
+visual,40,44,10.77,9.76,-0.135,0.91,Stable
+science,21,23,5.65,5.1,-0.136,0.9,Stable
+directly,21,23,5.65,5.1,-0.136,0.9,Stable
+explicitly,12,13,3.23,2.88,-0.141,0.9,Stable
+situation,12,13,3.23,2.88,-0.141,0.9,Stable
+although,22,24,5.92,5.32,-0.141,0.9,Stable
+correction,12,13,3.23,2.88,-0.141,0.9,Stable
+practice,13,14,3.5,3.11,-0.15,0.89,Stable
+support,40,43,10.77,9.54,-0.167,0.89,Stable
+experimental,56,60,15.08,13.31,-0.174,0.88,Stable
+detect,30,32,8.08,7.1,-0.175,0.88,Stable
+concept,47,50,12.66,11.09,-0.183,0.88,Stable
+secondly,4,4,1.08,0.89,-0.185,0.84,Stable
+american,4,4,1.08,0.89,-0.185,0.84,Stable
+trajectory,4,4,1.08,0.89,-0.185,0.84,Stable
+fall,4,4,1.08,0.89,-0.185,0.84,Stable
+perplexity,4,4,1.08,0.89,-0.185,0.84,Stable
+affective,4,4,1.08,0.89,-0.185,0.84,Stable
+indeed,4,4,1.08,0.89,-0.185,0.84,Stable
+proper,4,4,1.08,0.89,-0.185,0.84,Stable
+bit,4,4,1.08,0.89,-0.185,0.84,Stable
+enough,4,4,1.08,0.89,-0.185,0.84,Stable
+normalization,4,4,1.08,0.89,-0.185,0.84,Stable
+engagement,4,4,1.08,0.89,-0.185,0.84,Stable
+variability,4,4,1.08,0.89,-0.185,0.84,Stable
+coherent,4,4,1.08,0.89,-0.185,0.84,Stable
+degradation,4,4,1.08,0.89,-0.185,0.84,Stable
+globally,4,4,1.08,0.89,-0.185,0.84,Stable
+spanish,4,4,1.08,0.89,-0.185,0.84,Stable
+thorough,4,4,1.08,0.89,-0.185,0.84,Stable
+valid,4,4,1.08,0.89,-0.185,0.84,Stable
+mimic,4,4,1.08,0.89,-0.185,0.84,Stable
+occur,4,4,1.08,0.89,-0.185,0.84,Stable
+considerably,4,4,1.08,0.89,-0.185,0.84,Stable
+inclusion,4,4,1.08,0.89,-0.185,0.84,Stable
+closely,4,4,1.08,0.89,-0.185,0.84,Stable
+term,50,53,13.46,11.76,-0.188,0.87,Stable
+exchange,5,5,1.35,1.11,-0.198,0.84,Stable
+regularization,5,5,1.35,1.11,-0.198,0.84,Stable
+algorithms,5,5,1.35,1.11,-0.198,0.84,Stable
+threshold,5,5,1.35,1.11,-0.198,0.84,Stable
+portuguese,5,5,1.35,1.11,-0.198,0.84,Stable
+typical,5,5,1.35,1.11,-0.198,0.84,Stable
+talk,5,5,1.35,1.11,-0.198,0.84,Stable
+python,5,5,1.35,1.11,-0.198,0.84,Stable
+overview,6,6,1.62,1.33,-0.208,0.83,Stable
+underlying,6,6,1.62,1.33,-0.208,0.83,Stable
+native,6,6,1.62,1.33,-0.208,0.83,Stable
+generic,6,6,1.62,1.33,-0.208,0.83,Stable
+assign,6,6,1.62,1.33,-0.208,0.83,Stable
+realize,6,6,1.62,1.33,-0.208,0.83,Stable
+constrain,6,6,1.62,1.33,-0.208,0.83,Stable
+dynamic,27,28,7.27,6.21,-0.211,0.86,Stable
+accuracy,90,94,24.23,20.85,-0.212,0.86,Stable
+lie,7,7,1.88,1.55,-0.216,0.83,Stable
+recent,74,77,19.93,17.08,-0.216,0.86,Stable
+refer,7,7,1.88,1.55,-0.216,0.83,Stable
+whose,7,7,1.88,1.55,-0.216,0.83,Stable
+interpretability,7,7,1.88,1.55,-0.216,0.83,Stable
+learner,7,7,1.88,1.55,-0.216,0.83,Stable
+arise,7,7,1.88,1.55,-0.216,0.83,Stable
+minimal,7,7,1.88,1.55,-0.216,0.83,Stable
+formulate,7,7,1.88,1.55,-0.216,0.83,Stable
+quality,77,80,20.73,17.75,-0.219,0.86,Stable
+change,31,32,8.35,7.1,-0.22,0.85,Stable
+heavily,8,8,2.15,1.77,-0.223,0.83,Stable
+synthesis,8,8,2.15,1.77,-0.223,0.83,Stable
+variation,8,8,2.15,1.77,-0.223,0.83,Stable
+corresponding,8,8,2.15,1.77,-0.223,0.83,Stable
+fast,8,8,2.15,1.77,-0.223,0.83,Stable
+commonsense,8,8,2.15,1.77,-0.223,0.83,Stable
+simultaneously,8,8,2.15,1.77,-0.223,0.83,Stable
+manually,9,9,2.42,2.0,-0.228,0.83,Stable
+game,9,9,2.42,2.0,-0.228,0.83,Stable
+reach,9,9,2.42,2.0,-0.228,0.83,Stable
+believe,9,9,2.42,2.0,-0.228,0.83,Stable
+transfer,37,38,9.96,8.43,-0.229,0.85,Stable
+estimation,10,10,2.69,2.22,-0.232,0.83,Stable
+phenomenon,11,11,2.96,2.44,-0.236,0.83,Stable
+affect,11,11,2.96,2.44,-0.236,0.83,Stable
+must,11,11,2.96,2.44,-0.236,0.83,Stable
+related,11,11,2.96,2.44,-0.236,0.83,Stable
+node,11,11,2.96,2.44,-0.236,0.83,Stable
+reflect,12,12,3.23,2.66,-0.239,0.83,Stable
+tree,12,12,3.23,2.66,-0.239,0.83,Stable
+validation,12,12,3.23,2.66,-0.239,0.83,Stable
+text-based,13,13,3.5,2.88,-0.242,0.83,Stable
+hard,13,13,3.5,2.88,-0.242,0.83,Stable
+modeling,14,14,3.77,3.11,-0.244,0.83,Stable
+adaptation,14,14,3.77,3.11,-0.244,0.83,Stable
+develop,66,67,17.77,14.86,-0.25,0.84,Stable
+comparison,20,20,5.39,4.44,-0.254,0.83,Stable
+promising,21,21,5.65,4.66,-0.255,0.83,Stable
+write,22,22,5.92,4.88,-0.256,0.83,Stable
+example,48,48,12.92,10.65,-0.268,0.83,Stable
+error,60,60,16.16,13.31,-0.27,0.82,Stable
+data,350,350,94.24,77.64,-0.278,0.82,Stable
+natural,135,134,36.35,29.72,-0.286,0.82,Stable
+finally,37,36,9.96,7.99,-0.302,0.8,Stable
+help,35,34,9.42,7.54,-0.303,0.8,Stable
+among,32,31,8.62,6.88,-0.306,0.8,Stable
+base,27,26,7.27,5.77,-0.31,0.8,Stable
+article,25,24,6.73,5.32,-0.312,0.79,Stable
+widely,25,24,6.73,5.32,-0.312,0.79,Stable
+year,23,22,6.19,4.88,-0.315,0.79,Stable
+difference,22,21,5.92,4.66,-0.317,0.79,Stable
+area,22,21,5.92,4.66,-0.317,0.79,Stable
+yield,21,20,5.65,4.44,-0.318,0.79,Stable
+condition,18,17,4.85,3.77,-0.324,0.78,Stable
+medium,50,48,13.46,10.65,-0.325,0.79,Stable
+precision,17,16,4.58,3.55,-0.326,0.78,Stable
+prediction,49,47,13.19,10.43,-0.326,0.79,Stable
+major,17,16,4.58,3.55,-0.326,0.78,Stable
+since,17,16,4.58,3.55,-0.326,0.78,Stable
+information,193,186,51.97,41.26,-0.329,0.79,Stable
+consist,15,14,4.04,3.11,-0.332,0.77,Stable
+resource,40,38,10.77,8.43,-0.336,0.78,Stable
+theory,14,13,3.77,2.88,-0.336,0.77,Stable
+manner,14,13,3.77,2.88,-0.336,0.77,Stable
+top,13,12,3.5,2.66,-0.339,0.77,Stable
+comment,12,11,3.23,2.44,-0.344,0.76,Stable
+select,34,32,9.15,7.1,-0.346,0.78,Stable
+little,11,10,2.96,2.22,-0.349,0.76,Stable
+monolingual,11,10,2.96,2.22,-0.349,0.76,Stable
+supervision,11,10,2.96,2.22,-0.349,0.76,Stable
+background,11,10,2.96,2.22,-0.349,0.76,Stable
+core,11,10,2.96,2.22,-0.349,0.76,Stable
+binary,10,9,2.69,2.0,-0.355,0.75,Stable
+manual,10,9,2.69,2.0,-0.355,0.75,Stable
+basic,9,8,2.42,1.77,-0.362,0.74,Stable
+category,25,23,6.73,5.1,-0.368,0.76,Stable
+wikidata,8,7,2.15,1.55,-0.371,0.73,Stable
+distribute,8,7,2.15,1.55,-0.371,0.73,Stable
+carry,8,7,2.15,1.55,-0.371,0.73,Stable
+world,22,20,5.92,4.44,-0.38,0.75,Stable
+accent,7,6,1.88,1.33,-0.381,0.72,Stable
+minimize,7,6,1.88,1.33,-0.381,0.72,Stable
+bottleneck,7,6,1.88,1.33,-0.381,0.72,Stable
+decompose,7,6,1.88,1.33,-0.381,0.72,Stable
+pool,7,6,1.88,1.33,-0.381,0.72,Stable
+map,21,19,5.65,4.21,-0.384,0.75,Stable
+fluent,6,5,1.62,1.11,-0.395,0.7,Stable
+interpretable,6,5,1.62,1.11,-0.395,0.7,Stable
+quickly,6,5,1.62,1.11,-0.395,0.7,Stable
+daily,6,5,1.62,1.11,-0.395,0.7,Stable
+last,6,5,1.62,1.11,-0.395,0.7,Stable
+display,6,5,1.62,1.11,-0.395,0.7,Stable
+opportunity,6,5,1.62,1.11,-0.395,0.7,Stable
+contemporary,6,5,1.62,1.11,-0.395,0.7,Stable
+break,6,5,1.62,1.11,-0.395,0.7,Stable
+granularity,6,5,1.62,1.11,-0.395,0.7,Stable
+role,32,29,8.62,6.43,-0.395,0.75,Stable
+loss,19,17,5.12,3.77,-0.395,0.74,Stable
+meaningful,6,5,1.62,1.11,-0.395,0.7,Stable
+english,68,62,18.31,13.75,-0.4,0.75,Stable
+way,43,39,11.58,8.65,-0.4,0.75,Stable
+implement,18,16,4.85,3.55,-0.401,0.74,Stable
+relationship,29,26,7.81,5.77,-0.407,0.74,Stable
+additional,29,26,7.81,5.77,-0.407,0.74,Stable
+noise,17,15,4.58,3.33,-0.408,0.73,Stable
+identification,17,15,4.58,3.33,-0.408,0.73,Stable
+detection,63,57,16.96,12.64,-0.41,0.75,Stable
+association,5,4,1.35,0.89,-0.412,0.68,Stable
+chunk,5,4,1.35,0.89,-0.412,0.68,Stable
+hateful,5,4,1.35,0.89,-0.412,0.68,Stable
+cope,5,4,1.35,0.89,-0.412,0.68,Stable
+convey,5,4,1.35,0.89,-0.412,0.68,Stable
+academic,5,4,1.35,0.89,-0.412,0.68,Stable
+improved,5,4,1.35,0.89,-0.412,0.68,Stable
+surprisingly,5,4,1.35,0.89,-0.412,0.68,Stable
+tagger,5,4,1.35,0.89,-0.412,0.68,Stable
+authorship,5,4,1.35,0.89,-0.412,0.68,Stable
+pubmed,5,4,1.35,0.89,-0.412,0.68,Stable
+trace,5,4,1.35,0.89,-0.412,0.68,Stable
+special,5,4,1.35,0.89,-0.412,0.68,Stable
+check,5,4,1.35,0.89,-0.412,0.68,Stable
+protocol,5,4,1.35,0.89,-0.412,0.68,Stable
+ongoing,5,4,1.35,0.89,-0.412,0.68,Stable
+feed,5,4,1.35,0.89,-0.412,0.68,Stable
+manage,5,4,1.35,0.89,-0.412,0.68,Stable
+process,94,85,25.31,18.85,-0.415,0.75,Stable
+towards,27,24,7.27,5.32,-0.416,0.74,Stable
+measure,48,43,12.92,9.54,-0.419,0.74,Stable
+number,48,43,12.92,9.54,-0.419,0.74,Stable
+entity,90,81,24.23,17.97,-0.421,0.74,Stable
+abstract,15,13,4.04,2.88,-0.424,0.72,Stable
+along,15,13,4.04,2.88,-0.424,0.72,Stable
+annotate,25,22,6.73,4.88,-0.427,0.73,Stable
+type,65,58,17.5,12.87,-0.43,0.74,Stable
+event,34,30,9.15,6.65,-0.432,0.73,Stable
+linear,14,12,3.77,2.66,-0.433,0.71,Stable
+classification,113,101,30.43,22.4,-0.433,0.74,Stable
+alleviate,14,12,3.77,2.66,-0.433,0.71,Stable
+discuss,23,20,6.19,4.44,-0.439,0.72,Stable
+connection,13,11,3.5,2.44,-0.444,0.71,Stable
+global,22,19,5.92,4.21,-0.446,0.72,Stable
+source,85,75,22.89,16.64,-0.449,0.73,Stable
+perform,74,65,19.93,14.42,-0.453,0.73,Stable
+combination,21,18,5.65,3.99,-0.454,0.71,Stable
+note,12,10,3.23,2.22,-0.457,0.7,Stable
+interaction,55,48,14.81,10.65,-0.458,0.72,Stable
+interest,20,17,5.39,3.77,-0.463,0.71,Stable
+part,28,24,7.54,5.32,-0.465,0.71,Stable
+relatively,11,9,2.96,2.0,-0.472,0.68,Stable
+correlate,11,9,2.96,2.0,-0.472,0.68,Stable
+boundary,11,9,2.96,2.0,-0.472,0.68,Stable
+particular,26,22,7.0,4.88,-0.479,0.7,Stable
+target,57,49,15.35,10.87,-0.479,0.71,Stable
+previously,18,15,4.85,3.33,-0.482,0.69,Stable
+popular,25,21,6.73,4.66,-0.487,0.7,Stable
+produce,40,34,10.77,7.54,-0.487,0.7,Stable
+relate,25,21,6.73,4.66,-0.487,0.7,Stable
+verification,10,8,2.69,1.77,-0.489,0.67,Stable
+connect,10,8,2.69,1.77,-0.489,0.67,Stable
+annotation,32,27,8.62,5.99,-0.49,0.7,Stable
+cluster,17,14,4.58,3.11,-0.494,0.69,Stable
+unseen,17,14,4.58,3.11,-0.494,0.69,Stable
+selection,30,25,8.08,5.55,-0.505,0.69,Moderate Decline
+add,16,13,4.31,2.88,-0.507,0.68,Moderate Decline
+level,43,36,11.58,7.99,-0.509,0.69,Moderate Decline
+life,9,7,2.42,1.55,-0.51,0.65,Moderate Decline
+segment,9,7,2.42,1.55,-0.51,0.65,Moderate Decline
+sparse,9,7,2.42,1.55,-0.51,0.65,Moderate Decline
+matching,9,7,2.42,1.55,-0.51,0.65,Moderate Decline
+separate,9,7,2.42,1.55,-0.51,0.65,Moderate Decline
+classify,22,18,5.92,3.99,-0.516,0.68,Moderate Decline
+linguistic,48,40,12.92,8.87,-0.518,0.69,Moderate Decline
+train,179,151,48.2,33.5,-0.519,0.7,Moderate Decline
+noisy,15,12,4.04,2.66,-0.522,0.67,Moderate Decline
+final,15,12,4.04,2.66,-0.522,0.67,Moderate Decline
+accurate,21,17,5.65,3.77,-0.527,0.67,Moderate Decline
+contain,45,37,12.12,8.21,-0.535,0.68,Moderate Decline
+resolve,8,6,2.15,1.33,-0.536,0.63,Moderate Decline
+software,8,6,2.15,1.33,-0.536,0.63,Moderate Decline
+implementation,14,11,3.77,2.44,-0.538,0.66,Moderate Decline
+solve,32,26,8.62,5.77,-0.541,0.67,Moderate Decline
+time,66,54,17.77,11.98,-0.55,0.68,Moderate Decline
+platform,19,15,5.12,3.33,-0.553,0.66,Moderate Decline
+either,19,15,5.12,3.33,-0.553,0.66,Moderate Decline
+three,71,58,19.12,12.87,-0.554,0.67,Moderate Decline
+policy,36,29,9.69,6.43,-0.556,0.67,Moderate Decline
+suitable,13,10,3.5,2.22,-0.557,0.64,Moderate Decline
+encoder-decoder,13,10,3.5,2.22,-0.557,0.64,Moderate Decline
+description,30,24,8.08,5.32,-0.559,0.66,Moderate Decline
+amount,35,28,9.42,6.21,-0.564,0.66,Moderate Decline
+persian,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+book,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+availability,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+city,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+triple,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+usefulness,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+whole,7,5,1.88,1.11,-0.568,0.61,Moderate Decline
+first,112,91,30.16,20.19,-0.568,0.67,Moderate Decline
+know,29,23,7.81,5.1,-0.569,0.66,Moderate Decline
+user,113,91,30.43,20.19,-0.58,0.66,Moderate Decline
+conversation,33,26,8.89,5.77,-0.583,0.65,Moderate Decline
+addition,27,21,7.27,4.66,-0.591,0.65,Moderate Decline
+inference,76,60,20.46,13.31,-0.602,0.65,Moderate Decline
+review,36,28,9.69,6.21,-0.603,0.64,Moderate Decline
+characteristic,21,16,5.65,3.55,-0.604,0.63,Moderate Decline
+expression,21,16,5.65,3.55,-0.604,0.63,Moderate Decline
+goal,16,12,4.31,2.66,-0.605,0.63,Moderate Decline
+around,16,12,4.31,2.66,-0.605,0.63,Moderate Decline
+publish,11,8,2.96,1.77,-0.606,0.61,Moderate Decline
+ignore,11,8,2.96,1.77,-0.606,0.61,Moderate Decline
+optimal,11,8,2.96,1.77,-0.606,0.61,Moderate Decline
+relational,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+complementary,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+activation,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+alone,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+phoneme,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+interpretation,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+stack,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+drawback,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+robot,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+micro,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+explicit,6,4,1.62,0.89,-0.609,0.58,Moderate Decline
+label,68,53,18.31,11.76,-0.618,0.64,Moderate Decline
+consider,44,34,11.85,7.54,-0.619,0.64,Moderate Decline
+question,191,150,51.43,33.27,-0.621,0.65,Moderate Decline
+successful,15,11,4.04,2.44,-0.626,0.61,Moderate Decline
+close,15,11,4.04,2.44,-0.626,0.61,Moderate Decline
+joint,15,11,4.04,2.44,-0.626,0.61,Moderate Decline
+similar,29,22,7.81,4.88,-0.627,0.63,Moderate Decline
+answer,131,102,35.27,22.63,-0.629,0.64,Moderate Decline
+run,10,7,2.69,1.55,-0.637,0.59,Moderate Decline
+poetry,10,7,2.69,1.55,-0.637,0.59,Moderate Decline
+aggregate,10,7,2.69,1.55,-0.637,0.59,Moderate Decline
+empirically,10,7,2.69,1.55,-0.637,0.59,Moderate Decline
+collection,19,14,5.12,3.11,-0.639,0.61,Moderate Decline
+automatic,55,42,14.81,9.32,-0.641,0.63,Moderate Decline
+pair,55,42,14.81,9.32,-0.641,0.63,Moderate Decline
+distribution,32,24,8.62,5.32,-0.646,0.62,Moderate Decline
+create,54,41,14.54,9.09,-0.648,0.63,Moderate Decline
+public,23,17,6.19,3.77,-0.648,0.62,Moderate Decline
+clinical,23,17,6.19,3.77,-0.648,0.62,Moderate Decline
+namely,14,10,3.77,2.22,-0.651,0.6,Moderate Decline
+text,328,252,88.32,55.9,-0.655,0.63,Moderate Decline
+consumer,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+initialize,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+noun,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+data-driven,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+repository,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+likelihood,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+analogy,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+bayes,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+disambiguate,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+want,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+intensity,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+toward,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+draft,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+sparsity,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+neutral,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+compile,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+accompany,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+compositional,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+complement,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+measurement,5,3,1.35,0.67,-0.664,0.53,Moderate Decline
+exist,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+outline,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+frequency,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+personal,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+possibility,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+theoretical,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+interactive,9,6,2.42,1.33,-0.675,0.57,Moderate Decline
+multi-task,13,9,3.5,2.0,-0.68,0.58,Moderate Decline
+motivate,13,9,3.5,2.0,-0.68,0.58,Moderate Decline
+implicit,13,9,3.5,2.0,-0.68,0.58,Moderate Decline
+interface,13,9,3.5,2.0,-0.68,0.58,Moderate Decline
+character,13,9,3.5,2.0,-0.68,0.58,Moderate Decline
+ensemble,17,12,4.58,2.66,-0.683,0.59,Moderate Decline
+play,21,15,5.65,3.33,-0.685,0.6,Moderate Decline
+learning,142,106,38.23,23.51,-0.69,0.62,Moderate Decline
+extraction,60,44,16.16,9.76,-0.699,0.61,Moderate Decline
+simple,52,38,14.0,8.43,-0.7,0.6,Moderate Decline
+individual,32,23,8.62,5.1,-0.703,0.6,Moderate Decline
+emotion,32,23,8.62,5.1,-0.703,0.6,Moderate Decline
+typically,24,17,6.46,3.77,-0.705,0.59,Moderate Decline
+idea,16,11,4.31,2.44,-0.71,0.58,Moderate Decline
+translation,167,123,44.97,27.28,-0.711,0.61,Moderate Decline
+active,12,8,3.23,1.77,-0.714,0.56,Moderate Decline
+service,12,8,3.23,1.77,-0.714,0.56,Moderate Decline
+start,12,8,3.23,1.77,-0.714,0.56,Moderate Decline
+though,12,8,3.23,1.77,-0.714,0.56,Moderate Decline
+take,35,25,9.42,5.55,-0.715,0.59,Moderate Decline
+frame,8,5,2.15,1.11,-0.722,0.54,Moderate Decline
+would,8,5,2.15,1.11,-0.722,0.54,Moderate Decline
+passage,8,5,2.15,1.11,-0.722,0.54,Moderate Decline
+choose,8,5,2.15,1.11,-0.722,0.54,Moderate Decline
+experience,23,16,6.19,3.55,-0.725,0.58,Moderate Decline
+community,49,35,13.19,7.76,-0.729,0.59,Moderate Decline
+explanation,19,13,5.12,2.88,-0.731,0.57,Moderate Decline
+certain,19,13,5.12,2.88,-0.731,0.57,Moderate Decline
+document,92,66,24.77,14.64,-0.739,0.59,Moderate Decline
+regard,15,10,4.04,2.22,-0.74,0.56,Moderate Decline
+etc,15,10,4.04,2.22,-0.74,0.56,Moderate Decline
+appear,15,10,4.04,2.22,-0.74,0.56,Moderate Decline
+memory,44,31,11.85,6.88,-0.743,0.58,Moderate Decline
+group,33,23,8.89,5.1,-0.745,0.58,Moderate Decline
+useful,22,15,5.92,3.33,-0.747,0.57,Moderate Decline
+represent,54,38,14.54,8.43,-0.752,0.58,Moderate Decline
+relevance,11,7,2.96,1.55,-0.754,0.54,Moderate Decline
+vocabulary,11,7,2.96,1.55,-0.754,0.54,Moderate Decline
+live,11,7,2.96,1.55,-0.754,0.54,Moderate Decline
+probabilistic,11,7,2.96,1.55,-0.754,0.54,Moderate Decline
+usually,18,12,4.85,2.66,-0.758,0.56,Moderate Decline
+define,21,14,5.65,3.11,-0.771,0.56,Moderate Decline
+component,31,21,8.35,4.66,-0.778,0.56,Moderate Decline
+programming,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+firstly,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+reinforcement,24,16,6.46,3.55,-0.782,0.56,Moderate Decline
+least,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+genre,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+day,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+real,24,16,6.46,3.55,-0.782,0.56,Moderate Decline
+feasible,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+independently,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+largely,7,4,1.88,0.89,-0.782,0.5,Moderate Decline
+test,85,59,22.89,13.09,-0.783,0.57,Moderate Decline
+extract,68,47,18.31,10.43,-0.784,0.57,Moderate Decline
+allow,47,32,12.66,7.1,-0.792,0.56,Moderate Decline
+good,63,43,16.96,9.54,-0.799,0.56,Moderate Decline
+trust,10,6,2.69,1.33,-0.802,0.51,Moderate Decline
+linguistics,10,6,2.69,1.33,-0.802,0.51,Moderate Decline
+architecture,82,56,22.08,12.42,-0.805,0.56,Moderate Decline
+long,46,31,12.39,6.88,-0.805,0.56,Moderate Decline
+less,23,15,6.19,3.33,-0.806,0.54,Moderate Decline
+highly,26,17,7.0,3.77,-0.812,0.55,Moderate Decline
+important,55,37,14.81,8.21,-0.814,0.56,Moderate Decline
+overlap,13,8,3.5,1.77,-0.815,0.52,Moderate Decline
+come,13,8,3.5,1.77,-0.815,0.52,Moderate Decline
+accord,13,8,3.5,1.77,-0.815,0.52,Moderate Decline
+build,61,41,16.42,9.09,-0.819,0.56,Moderate Decline
+recently,32,21,8.62,4.66,-0.822,0.55,Moderate Decline
+attention,102,69,27.46,15.31,-0.823,0.56,Moderate Decline
+capture,51,34,13.73,7.54,-0.824,0.55,Moderate Decline
+vqa,19,12,5.12,2.66,-0.829,0.53,Moderate Decline
+competitive,19,12,5.12,2.66,-0.829,0.53,Moderate Decline
+argument,19,12,5.12,2.66,-0.829,0.53,Moderate Decline
+probability,19,12,5.12,2.66,-0.829,0.53,Moderate Decline
+supervised,22,14,5.92,3.11,-0.833,0.53,Moderate Decline
+syntax,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+ambiguous,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+picture,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+track,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+naive,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+dynamically,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+whereas,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+lot,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+cross,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+keywords,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+intuition,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+literary,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+expect,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+reasonable,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+semi-supervised,6,3,1.62,0.67,-0.86,0.45,Moderate Decline
+decrease,9,5,2.42,1.11,-0.861,0.48,Moderate Decline
+cyberbullying,9,5,2.42,1.11,-0.861,0.48,Moderate Decline
+high-level,9,5,2.42,1.11,-0.861,0.48,Moderate Decline
+informative,12,7,3.23,1.55,-0.862,0.5,Moderate Decline
+message,15,9,4.04,2.0,-0.862,0.51,Moderate Decline
+independent,12,7,3.23,1.55,-0.862,0.5,Moderate Decline
+path,12,7,3.23,1.55,-0.862,0.5,Moderate Decline
+interpret,12,7,3.23,1.55,-0.862,0.5,Moderate Decline
+reduction,15,9,4.04,2.0,-0.862,0.51,Moderate Decline
+languages,12,7,3.23,1.55,-0.862,0.5,Moderate Decline
+post,33,21,8.89,4.66,-0.864,0.53,Moderate Decline
+standard,51,33,13.73,7.32,-0.864,0.54,Moderate Decline
+search,41,26,11.04,5.77,-0.881,0.53,Moderate Decline
+parallel,32,20,8.62,4.44,-0.885,0.52,Moderate Decline
+main,20,12,5.39,2.66,-0.896,0.5,Moderate Decline
+many,80,51,21.54,11.31,-0.9,0.53,Moderate Decline
+statistical,17,10,4.58,2.22,-0.901,0.5,Moderate Decline
+tend,17,10,4.58,2.22,-0.901,0.5,Moderate Decline
+instead,17,10,4.58,2.22,-0.901,0.5,Moderate Decline
+predict,54,34,14.54,7.54,-0.903,0.52,Moderate Decline
+give,99,63,26.66,13.97,-0.908,0.53,Moderate Decline
+treat,14,8,3.77,1.77,-0.909,0.48,Moderate Decline
+state-of-the-art,138,88,37.16,19.52,-0.911,0.53,Moderate Decline
+object,25,15,6.73,3.33,-0.918,0.5,Moderate Decline
+german,11,6,2.96,1.33,-0.919,0.47,Moderate Decline
+voice,11,6,2.96,1.33,-0.919,0.47,Moderate Decline
+operation,11,6,2.96,1.33,-0.919,0.47,Moderate Decline
+encourage,11,6,2.96,1.33,-0.919,0.47,Moderate Decline
+induce,11,6,2.96,1.33,-0.919,0.47,Moderate Decline
+chinese,33,20,8.89,4.44,-0.927,0.5,Moderate Decline
+already,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+big,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+mapping,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+library,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+toolkit,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+unknown,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+entire,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+faster,8,4,2.15,0.89,-0.936,0.44,Moderate Decline
+successfully,16,9,4.31,2.0,-0.946,0.48,Moderate Decline
+end,24,14,6.46,3.11,-0.949,0.49,Moderate Decline
+difficult,29,17,7.81,3.77,-0.96,0.49,Moderate Decline
+collect,29,17,7.81,3.77,-0.96,0.49,Moderate Decline
+easily,13,7,3.5,1.55,-0.963,0.46,Moderate Decline
+sequential,18,10,4.85,2.22,-0.976,0.47,Moderate Decline
+random,23,13,6.19,2.88,-0.984,0.47,Moderate Decline
+baseline,85,51,22.89,11.31,-0.985,0.5,Moderate Decline
+rating,10,5,2.69,1.11,-0.988,0.43,Moderate Decline
+treatment,10,5,2.69,1.11,-0.988,0.43,Moderate Decline
+machine,123,74,33.12,16.41,-0.991,0.5,Moderate Decline
+utterance,25,14,6.73,3.11,-1.004,0.47,Moderate Decline
+link,30,17,8.08,3.77,-1.006,0.47,Moderate Decline
+combine,60,35,16.16,7.76,-1.011,0.48,Moderate Decline
+second,32,18,8.62,3.99,-1.021,0.47,Moderate Decline
+rank,17,9,4.58,2.0,-1.024,0.45,Moderate Decline
+kind,17,9,4.58,2.0,-1.024,0.45,Moderate Decline
+turn,17,9,4.58,2.0,-1.024,0.45,Moderate Decline
+semantically,12,6,3.23,1.33,-1.027,0.43,Moderate Decline
+categorization,12,6,3.23,1.33,-1.027,0.43,Moderate Decline
+express,12,6,3.23,1.33,-1.027,0.43,Moderate Decline
+replace,12,6,3.23,1.33,-1.027,0.43,Moderate Decline
+performs,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+neighbor,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+basis,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+properly,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+gather,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+tensor,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+explainable,7,3,1.88,0.67,-1.033,0.39,Moderate Decline
+sequence,78,45,21.0,9.98,-1.037,0.48,Moderate Decline
+local,19,10,5.12,2.22,-1.047,0.44,Moderate Decline
+generalize,14,7,3.77,1.55,-1.057,0.43,Moderate Decline
+online,50,28,13.46,6.21,-1.057,0.47,Moderate Decline
+semantics,21,11,5.65,2.44,-1.066,0.44,Moderate Decline
+self-attention,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+tagging,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+third,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+part-of-speech,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+soft,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+assume,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+reader,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+heterogeneous,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+fashion,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+right,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+narrative,9,4,2.42,0.89,-1.075,0.39,Moderate Decline
+annotator,16,8,4.31,1.77,-1.08,0.43,Moderate Decline
+discover,16,8,4.31,1.77,-1.08,0.43,Moderate Decline
+infer,16,8,4.31,1.77,-1.08,0.43,Moderate Decline
+correspond,16,8,4.31,1.77,-1.08,0.43,Moderate Decline
+speech,148,83,39.85,18.41,-1.093,0.46,Moderate Decline
+function,39,21,10.5,4.66,-1.093,0.45,Moderate Decline
+mean,25,13,6.73,2.88,-1.096,0.44,Moderate Decline
+encode,41,22,11.04,4.88,-1.101,0.45,Moderate Decline
+property,34,18,9.15,3.99,-1.104,0.44,Moderate Decline
+positive,11,5,2.96,1.11,-1.105,0.39,Moderate Decline
+biomedical,11,5,2.96,1.11,-1.105,0.39,Moderate Decline
+discourse,11,5,2.96,1.11,-1.105,0.39,Moderate Decline
+relation,77,42,20.73,9.32,-1.113,0.45,Moderate Decline
+supervise,20,10,5.39,2.22,-1.114,0.42,Moderate Decline
+share,45,24,12.12,5.32,-1.115,0.44,Moderate Decline
+call,54,29,14.54,6.43,-1.117,0.45,Moderate Decline
+problem,167,92,44.97,20.41,-1.121,0.46,Moderate Decline
+privacy,13,6,3.5,1.33,-1.128,0.4,Moderate Decline
+form,51,27,13.73,5.99,-1.133,0.44,Moderate Decline
+relative,24,12,6.46,2.66,-1.139,0.42,Moderate Decline
+rich,24,12,6.46,2.66,-1.139,0.42,Moderate Decline
+embeddings,84,45,22.62,9.98,-1.141,0.44,Moderate Decline
+possible,35,18,9.42,3.99,-1.143,0.43,Moderate Decline
+fusion,15,7,4.04,1.55,-1.145,0.4,Moderate Decline
+structure,97,52,26.12,11.53,-1.145,0.44,Moderate Decline
+representation,183,99,49.27,21.96,-1.148,0.45,Moderate Decline
+people,26,13,7.0,2.88,-1.148,0.42,Moderate Decline
+obtain,59,31,15.89,6.88,-1.151,0.44,Moderate Decline
+team,17,8,4.58,1.77,-1.158,0.4,Moderate Decline
+multi,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+clean,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+bad,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+extremely,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+cross-language,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+near,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+population,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+trial,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+true,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+simplify,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+crisis,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+assignment,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+scratch,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+let,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+gated,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+company,6,2,1.62,0.44,-1.165,0.32,Moderate Decline
+challenging,19,9,5.12,2.0,-1.17,0.4,Moderate Decline
+match,36,18,9.69,3.99,-1.182,0.42,Moderate Decline
+algorithm,94,49,25.31,10.87,-1.183,0.43,Moderate Decline
+single,51,26,13.73,5.77,-1.183,0.42,Moderate Decline
+sentence-level,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+toxic,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+crowd,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+stream,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+layer,38,19,10.23,4.21,-1.187,0.42,Moderate Decline
+stochastic,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+composition,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+degrade,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+labeling,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+bilingual,8,3,2.15,0.67,-1.187,0.34,Moderate Decline
+embed,59,30,15.89,6.65,-1.196,0.42,Moderate Decline
+hypothesis,27,13,7.27,2.88,-1.199,0.4,Moderate Decline
+hand,10,4,2.69,0.89,-1.202,0.35,Moderate Decline
+gold,10,4,2.69,0.89,-1.202,0.35,Moderate Decline
+index,10,4,2.69,0.89,-1.202,0.35,Moderate Decline
+topic,65,33,17.5,7.32,-1.203,0.42,Moderate Decline
+drug,12,5,3.23,1.11,-1.213,0.36,Moderate Decline
+underlie,14,6,3.77,1.33,-1.222,0.37,Moderate Decline
+traffic,14,6,3.77,1.33,-1.222,0.37,Moderate Decline
+matrix,14,6,3.77,1.33,-1.222,0.37,Moderate Decline
+read,16,7,4.31,1.55,-1.228,0.37,Moderate Decline
+past,18,8,4.85,1.77,-1.233,0.38,Moderate Decline
+attempt,20,9,5.39,2.0,-1.237,0.38,Moderate Decline
+class,22,10,5.92,2.22,-1.241,0.38,Moderate Decline
+importance,24,11,6.46,2.44,-1.244,0.39,Moderate Decline
+hierarchical,26,12,7.0,2.66,-1.246,0.39,Moderate Decline
+recognition,81,40,21.81,8.87,-1.251,0.41,Moderate Decline
+learn,258,130,69.47,28.84,-1.254,0.42,Moderate Decline
+set,146,73,39.31,16.19,-1.254,0.41,Moderate Decline
+automatically,44,21,11.85,4.66,-1.259,0.4,Moderate Decline
+space,66,32,17.77,7.1,-1.266,0.4,Moderate Decline
+common,37,17,9.96,3.77,-1.293,0.38,Moderate Decline
+history,17,7,4.58,1.55,-1.307,0.35,Moderate Decline
+universal,15,6,4.04,1.33,-1.31,0.35,Moderate Decline
+element,15,6,4.04,1.33,-1.31,0.35,Moderate Decline
+subset,15,6,4.04,1.33,-1.31,0.35,Moderate Decline
+modern,13,5,3.5,1.11,-1.314,0.34,Moderate Decline
+vietnamese,13,5,3.5,1.11,-1.314,0.34,Moderate Decline
+bidirectional,13,5,3.5,1.11,-1.314,0.34,Moderate Decline
+margin,13,5,3.5,1.11,-1.314,0.34,Moderate Decline
+quantitative,13,5,3.5,1.11,-1.314,0.34,Moderate Decline
+batch,11,4,2.96,0.89,-1.319,0.32,Moderate Decline
+historical,11,4,2.96,0.89,-1.319,0.32,Moderate Decline
+rnns,11,4,2.96,0.89,-1.319,0.32,Moderate Decline
+long-term,11,4,2.96,0.89,-1.319,0.32,Moderate Decline
+conditional,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+visualization,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+parsing,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+collaborative,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+get,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+applicable,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+labeled,9,3,2.42,0.67,-1.327,0.3,Moderate Decline
+best,59,27,15.89,5.99,-1.336,0.38,Moderate Decline
+semantic,136,64,36.62,14.2,-1.337,0.39,Moderate Decline
+segmentation,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+adequate,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+short,32,14,8.62,3.11,-1.338,0.37,Moderate Decline
+rarely,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+descent,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+relatedness,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+completely,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+converse,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+lattice,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+split,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+suggestion,7,2,1.88,0.44,-1.338,0.27,Moderate Decline
+adversarial,30,13,8.08,2.88,-1.342,0.36,Moderate Decline
+estimate,24,10,6.46,2.22,-1.357,0.35,Moderate Decline
+continuous,20,8,5.39,1.77,-1.371,0.34,Moderate Decline
+similarity,65,29,17.5,6.43,-1.377,0.37,Moderate Decline
+deal,18,7,4.85,1.55,-1.381,0.33,Moderate Decline
+hybrid,16,6,4.31,1.33,-1.393,0.32,Moderate Decline
+feature,172,78,46.31,17.3,-1.395,0.37,Moderate Decline
+compute,27,11,7.27,2.44,-1.402,0.34,Moderate Decline
+opinion,14,5,3.77,1.11,-1.408,0.31,Moderate Decline
+next,14,5,3.77,1.11,-1.408,0.31,Moderate Decline
+mining,14,5,3.77,1.11,-1.408,0.31,Moderate Decline
+approximate,12,4,3.23,0.89,-1.427,0.3,Moderate Decline
+summarization,46,19,12.39,4.21,-1.451,0.35,Moderate Decline
+sound,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+entropy,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+discrete,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+annotated,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+agreement,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+engine,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+acquisition,10,3,2.69,0.67,-1.454,0.27,Moderate Decline
+participant,17,6,4.58,1.33,-1.472,0.31,Moderate Decline
+together,17,6,4.58,1.33,-1.472,0.31,Moderate Decline
+order,56,23,15.08,5.1,-1.476,0.34,Moderate Decline
+end-to-end,38,15,10.23,3.33,-1.487,0.33,Moderate Decline
+old,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+modular,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+regression,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+count,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+attentive,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+symbolic,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+weighted,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+visualize,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+markov,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+metadata,8,2,2.15,0.44,-1.492,0.24,Moderate Decline
+bleu,15,5,4.04,1.11,-1.496,0.29,Moderate Decline
+action,27,10,7.27,2.22,-1.515,0.31,Decaying (Obsolescent)
+meaning,32,12,8.62,2.66,-1.528,0.32,Decaying (Obsolescent)
+disambiguation,13,4,3.5,0.89,-1.528,0.27,Decaying (Obsolescent)
+tag,25,9,6.73,2.0,-1.534,0.31,Decaying (Obsolescent)
+dialog,30,11,8.08,2.44,-1.545,0.31,Decaying (Obsolescent)
+hidden,18,6,4.85,1.33,-1.546,0.29,Decaying (Obsolescent)
+sentiment,99,39,26.66,8.65,-1.569,0.33,Decaying (Obsolescent)
+leave,11,3,2.96,0.67,-1.571,0.25,Decaying (Obsolescent)
+scalable,11,3,2.96,0.67,-1.571,0.25,Decaying (Obsolescent)
+short-term,16,5,4.31,1.11,-1.579,0.27,Decaying (Obsolescent)
+ner,21,7,5.65,1.55,-1.584,0.29,Decaying (Obsolescent)
+embedding,26,9,7.0,2.0,-1.587,0.3,Decaying (Obsolescent)
+much,31,11,8.35,2.44,-1.589,0.3,Decaying (Obsolescent)
+author,29,10,7.81,2.22,-1.612,0.29,Decaying (Obsolescent)
+phrase,24,8,6.46,1.77,-1.614,0.29,Decaying (Obsolescent)
+notion,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+autoencoder,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+entry,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+title,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+morphological,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+learned,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+bot,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+almost,9,2,2.42,0.44,-1.631,0.22,Decaying (Obsolescent)
+unit,22,7,5.92,1.55,-1.646,0.27,Decaying (Obsolescent)
+scheme,22,7,5.92,1.55,-1.646,0.27,Decaying (Obsolescent)
+story,17,5,4.58,1.11,-1.658,0.26,Decaying (Obsolescent)
+competition,17,5,4.58,1.11,-1.658,0.26,Decaying (Obsolescent)
+dependency,25,8,6.73,1.77,-1.669,0.27,Decaying (Obsolescent)
+exploit,33,11,8.89,2.44,-1.675,0.28,Decaying (Obsolescent)
+reading,12,3,3.23,0.67,-1.679,0.23,Decaying (Obsolescent)
+flow,12,3,3.23,0.67,-1.679,0.23,Decaying (Obsolescent)
+unsupervised,49,17,13.19,3.77,-1.681,0.29,Decaying (Obsolescent)
+lexicon,20,6,5.39,1.33,-1.685,0.26,Decaying (Obsolescent)
+classifier,47,16,12.66,3.55,-1.7,0.29,Decaying (Obsolescent)
+spoken,23,7,6.19,1.55,-1.705,0.26,Decaying (Obsolescent)
+customer,15,4,4.04,0.89,-1.71,0.24,Decaying (Obsolescent)
+distributional,15,4,4.04,0.89,-1.71,0.24,Decaying (Obsolescent)
+darwin,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+phone,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+e-commerce,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+decade,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+synonym,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+submit,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+compositionality,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+distant,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+dictionary,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+normal,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+depth,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+tone,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+hierarchy,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+amazon,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+thousand,7,1,1.88,0.22,-1.724,0.16,Decaying (Obsolescent)
+purpose,18,5,4.85,1.11,-1.732,0.24,Decaying (Obsolescent)
+naturally,10,2,2.69,0.44,-1.758,0.19,Decaying (Obsolescent)
+recommender,10,2,2.69,0.44,-1.758,0.19,Decaying (Obsolescent)
+try,10,2,2.69,0.44,-1.758,0.19,Decaying (Obsolescent)
+hour,10,2,2.69,0.44,-1.758,0.19,Decaying (Obsolescent)
+mention,27,8,7.27,1.77,-1.772,0.25,Decaying (Obsolescent)
+ranking,13,3,3.5,0.67,-1.779,0.21,Decaying (Obsolescent)
+respect,13,3,3.5,0.67,-1.779,0.21,Decaying (Obsolescent)
+million,30,9,8.08,2.0,-1.781,0.26,Decaying (Obsolescent)
+gradient,22,6,5.92,1.33,-1.811,0.24,Decaying (Obsolescent)
+acoustic,40,12,10.77,2.66,-1.834,0.25,Decaying (Obsolescent)
+twitter,26,7,7.0,1.55,-1.869,0.23,Decaying (Obsolescent)
+absolute,14,3,3.77,0.67,-1.873,0.2,Decaying (Obsolescent)
+kernel,14,3,3.77,0.67,-1.873,0.2,Decaying (Obsolescent)
+trained,14,3,3.77,0.67,-1.873,0.2,Decaying (Obsolescent)
+grammatical,11,2,2.96,0.44,-1.875,0.18,Decaying (Obsolescent)
+quantity,11,2,2.96,0.44,-1.875,0.18,Decaying (Obsolescent)
+n-gram,8,1,2.15,0.22,-1.878,0.14,Decaying (Obsolescent)
+state-of-art,8,1,2.15,0.22,-1.878,0.14,Decaying (Obsolescent)
+dependent,8,1,2.15,0.22,-1.878,0.14,Decaying (Obsolescent)
+parser,8,1,2.15,0.22,-1.878,0.14,Decaying (Obsolescent)
+gru,8,1,2.15,0.22,-1.878,0.14,Decaying (Obsolescent)
+corpus,155,49,41.74,10.87,-1.893,0.26,Decaying (Obsolescent)
+describe,71,21,19.12,4.66,-1.927,0.25,Decaying (Obsolescent)
+jointly,25,6,6.73,1.33,-1.982,0.21,Decaying (Obsolescent)
+syntactic,25,6,6.73,1.33,-1.982,0.21,Decaying (Obsolescent)
+paragraph,12,2,3.23,0.44,-1.983,0.16,Decaying (Obsolescent)
+conflict,12,2,3.23,0.44,-1.983,0.16,Decaying (Obsolescent)
+nmt,45,12,12.12,2.66,-1.996,0.23,Decaying (Obsolescent)
+bayesian,9,1,2.42,0.22,-2.018,0.13,Decaying (Obsolescent)
+interesting,9,1,2.42,0.22,-2.018,0.13,Decaying (Obsolescent)
+child,9,1,2.42,0.22,-2.018,0.13,Decaying (Obsolescent)
+svm,9,1,2.42,0.22,-2.018,0.13,Decaying (Obsolescent)
+able,53,14,14.27,3.11,-2.034,0.22,Decaying (Obsolescent)
+deep,135,38,36.35,8.43,-2.045,0.23,Decaying (Obsolescent)
+latent,30,7,8.08,1.55,-2.063,0.2,Decaying (Obsolescent)
+sentence,185,52,49.81,11.53,-2.064,0.23,Decaying (Obsolescent)
+parse,13,2,3.5,0.44,-2.084,0.15,Decaying (Obsolescent)
+bank,13,2,3.5,0.44,-2.084,0.15,Decaying (Obsolescent)
+depend,20,4,5.39,0.89,-2.085,0.18,Decaying (Obsolescent)
+variable,20,4,5.39,0.89,-2.085,0.18,Decaying (Obsolescent)
+look,10,1,2.69,0.22,-2.145,0.12,Decaying (Obsolescent)
+stance,14,2,3.77,0.44,-2.178,0.14,Decaying (Obsolescent)
+tweet,33,7,8.89,1.55,-2.193,0.18,Decaying (Obsolescent)
+decoder,22,4,5.92,0.89,-2.211,0.16,Decaying (Obsolescent)
+ontology,11,1,2.96,0.22,-2.262,0.11,Decaying (Obsolescent)
+french,11,1,2.96,0.22,-2.262,0.11,Decaying (Obsolescent)
+alexa,11,1,2.96,0.22,-2.262,0.11,Decaying (Obsolescent)
+russian,15,2,4.04,0.44,-2.266,0.13,Decaying (Obsolescent)
+distance,28,5,7.54,1.11,-2.321,0.16,Decaying (Obsolescent)
+abstractive,20,3,5.39,0.67,-2.336,0.14,Decaying (Obsolescent)
+rouge,16,2,4.31,0.44,-2.349,0.12,Decaying (Obsolescent)
+transcription,16,2,4.31,0.44,-2.349,0.12,Decaying (Obsolescent)
+sequence-to-sequence,16,2,4.31,0.44,-2.349,0.12,Decaying (Obsolescent)
+grammar,16,2,4.31,0.44,-2.349,0.12,Decaying (Obsolescent)
+semeval,12,1,3.23,0.22,-2.37,0.1,Decaying (Obsolescent)
+calculate,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+compete,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+assertion,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+statistic,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+oov,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+factorization,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+wordnet,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+election,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+phonetic,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+flipper,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+plot,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+invariant,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+energy,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+code-mixed,8,0,2.15,0.0,-2.408,0.04,Decaying (Obsolescent)
+variational,22,3,5.92,0.67,-2.462,0.13,Decaying (Obsolescent)
+word,382,82,102.86,18.19,-2.467,0.18,Decaying (Obsolescent)
+goal-oriented,13,1,3.5,0.22,-2.47,0.09,Decaying (Obsolescent)
+free,13,1,3.5,0.22,-2.47,0.09,Decaying (Obsolescent)
+speaker,59,11,15.89,2.44,-2.479,0.16,Decaying (Obsolescent)
+rule,27,4,7.27,0.89,-2.486,0.13,Decaying (Obsolescent)
+neural,266,55,71.62,12.2,-2.506,0.17,Decaying (Obsolescent)
+network,276,57,74.32,12.64,-2.509,0.17,Decaying (Obsolescent)
+lexical,47,8,12.66,1.77,-2.532,0.15,Decaying (Obsolescent)
+blstm,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+university,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+cell,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+adverse,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+character-level,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+abusive,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+language-independent,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+centrality,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+phrase-based,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+wsd,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+copy,9,0,2.42,0.0,-2.548,0.04,Decaying (Obsolescent)
+sense,24,3,6.46,0.67,-2.579,0.12,Decaying (Obsolescent)
+lstm,34,5,9.15,1.11,-2.585,0.13,Decaying (Obsolescent)
+transformation,15,1,4.04,0.22,-2.653,0.08,Decaying (Obsolescent)
+lstms,15,1,4.04,0.22,-2.653,0.08,Decaying (Obsolescent)
+dfsmn,10,0,2.69,0.0,-2.675,0.04,Decaying (Obsolescent)
+harassment,10,0,2.69,0.0,-2.675,0.04,Decaying (Obsolescent)
+wikipedia,26,3,7.0,0.67,-2.686,0.11,Decaying (Obsolescent)
+product,37,5,9.96,1.11,-2.701,0.12,Decaying (Obsolescent)
+oie,11,0,2.96,0.0,-2.792,0.03,Decaying (Obsolescent)
+emoji,11,0,2.96,0.0,-2.792,0.03,Decaying (Obsolescent)
+music,11,0,2.96,0.0,-2.792,0.03,Decaying (Obsolescent)
+prize,11,0,2.96,0.0,-2.792,0.03,Decaying (Obsolescent)
+word-level,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+keyphrase,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+idiom,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+adr,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+convolution,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+synset,12,0,3.23,0.0,-2.9,0.03,Decaying (Obsolescent)
+item,21,1,5.65,0.22,-3.092,0.06,Decaying (Obsolescent)
+ctc,14,0,3.77,0.0,-3.094,0.03,Decaying (Obsolescent)
+extractive,14,0,3.77,0.0,-3.094,0.03,Decaying (Obsolescent)
+cnn,15,0,4.04,0.0,-3.182,0.02,Decaying (Obsolescent)
+sens,16,0,4.31,0.0,-3.265,0.02,Decaying (Obsolescent)
+rnn,25,1,6.73,0.22,-3.325,0.05,Decaying (Obsolescent)
+movie,25,1,6.73,0.22,-3.325,0.05,Decaying (Obsolescent)
+recurrent,76,5,20.46,1.11,-3.704,0.06,Decaying (Obsolescent)
+vector,111,8,29.89,1.77,-3.74,0.06,Decaying (Obsolescent)
+convolutional,41,1,11.04,0.22,-3.999,0.03,Decaying (Obsolescent)
